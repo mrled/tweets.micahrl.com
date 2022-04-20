@@ -25,8 +25,10 @@
       {{- range .Data.Pages.ByPublishDate.Reverse -}}
       {{- $tweet := index .Site.Data.twarchive .Params.tweetid -}}
       <tr class="tweet-table-row-date-username">
-        <a href="{{ .Permalink }}">
-        <td class="tweet-table-date"><time>{{ .Date.Format .Site.Params.dateform }}</time></td>
+
+        <td class="tweet-table-date">
+          <a href="{{ .Permalink }}"><time>{{ .Date.Format .Site.Params.dateform }}</time></a>
+        </td>
         <td class="tweet-table-username">@{{ $tweet.username }}</td>
         </a>
       </tr>
