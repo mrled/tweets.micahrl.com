@@ -1,18 +1,17 @@
 :root {
-  --twitter-blue: #1DA1F2;
-
-  --tweets-micahrl-bg-color: white;
-  --tweets-micahrl-fg-color: black;
-  --tweets-micahrl-link-unvisited-color: var(--twitter-blue);
-  --tweets-micahrl-link-visited-color: #991df2;
+  --tweets-micahrl-bg-color: var(--twarchive-twitter-2xlightgray);
+  --tweets-micahrl-fg-color: var(--twarchive-twitter-black);
+  --tweets-micahrl-link-unvisited-color: var(--twarchive-twitter-blue);
+  --tweets-micahrl-link-visited-color: var(--twarchive-twitter-blue);
+  // --tweets-micahrl-link-visited-color: #991df2;
 
   --content-width: 30em;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --tweets-micahrl-bg-color: black;
-    --tweets-micahrl-fg-color: white;
+    --tweets-micahrl-bg-color: var(--twarchive-twitter-black);
+    --tweets-micahrl-fg-color: var(--twarchive-twitter-2xlightgray);
   }
 }
 
@@ -40,13 +39,11 @@ a {
   color: var(--tweets-micahrl-link-unvisited-color);
   &:visited {
     color: var(--tweets-micahrl-link-visited-color);
-    // color: var(--tweets-micahrl-link-unvisited-color);
   }
 }
 
 .tweet-table {
   .tweet-table-row-date-username {
-    color: var(--twitter-blue);
     .tweet-table-date, .tweet-table-username {
       padding-top: 0.5em;
       font-size: 14px;
@@ -59,15 +56,28 @@ a {
       white-space: nowrap;
       display: inline-block;
       width: var(--content-width);
-      border-bottom: 1px solid black;
+      border-bottom: 1px solid var(--tweets-micahrl-fg-color);
       padding-bottom: 1em;
       font-size: 12px;
+      color: var(--twarchive-twitter-darkgray);
     }
   }
 }
 
 @media (max-width: 400px) {
   :root {
-    --content-width: 19em;
+    --content-width: 24em;
+  }
+  .tweet-table {
+    .tweet-table-row-date-username {
+      .tweet-table-date, .tweet-table-username {
+        font-size: 12px;
+      }
+    }
+    .tweet-table-row-text {
+      .tweet-table-text {
+        font-size: 10px;
+      }
+    }
   }
 }
