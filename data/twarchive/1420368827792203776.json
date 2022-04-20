@@ -1,0 +1,33 @@
+{
+  "id": "1420368827792203776",
+  "date": "2021-07-28T13:01:32+00:00",
+  "date_original_format": "Wed Jul 28 13:01:32 +0000 2021",
+  "full_text": "I'm really proud of this talk, after rereading it.\n\nTracery is a very small project and did a lot of things accidentally, but then it helped me discover that being tiny, human readable, easy to use and leave as you please, easy to port, \n\nthese are all important and valuable! https://t.co/LDEAEKpmYu",
+  "full_html_strip_qts": "I'm really proud of this talk, after rereading it.<br/><br/>Tracery is a very small project and did a lot of things accidentally, but then it helped me discover that being tiny, human readable, easy to use and leave as you please, easy to port, <br/><br/>these are all important and valuable! ",
+  "full_html_link_qts": "I'm really proud of this talk, after rereading it.<br/><br/>Tracery is a very small project and did a lot of things accidentally, but then it helped me discover that being tiny, human readable, easy to use and leave as you please, easy to port, <br/><br/>these are all important and valuable! <a href=\"https://twitter.com/OpenTranscripts/status/1420089712769961985\">twitter.com/OpenTranscript\u2026</a>",
+  "media": [],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/LDEAEKpmYu",
+        "expanded_url": "https://twitter.com/OpenTranscripts/status/1420089712769961985",
+        "display_url": "twitter.com/OpenTranscript\u2026",
+        "indices": [
+          277,
+          300
+        ]
+      }
+    ]
+  },
+  "qts": [
+    "1420089712769961985"
+  ],
+  "thread_parent_id": null,
+  "username": "GalaxyKate",
+  "user_displayname": "Dr Kate Compton",
+  "user_pfp": "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",
+  "retrieved_date": "2022-04-19T17:01:10.295155"
+}

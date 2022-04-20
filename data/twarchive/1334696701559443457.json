@@ -1,0 +1,42 @@
+{
+  "id": "1334696701559443457",
+  "date": "2020-12-04T03:11:05+00:00",
+  "date_original_format": "Fri Dec 04 03:11:05 +0000 2020",
+  "full_text": "@browniefed @vercel_support Are you using puppeteer by any chance? I encountered this a few months ago and it was due to the usage of a headless browser. one other thing to note is that this limit applies to all of your cloud functions combined because at least back then, Vercel didn't code split them",
+  "full_html_strip_qts": "<a href=\"https://twitter.com/browniefed\">@browniefed</a> <a href=\"https://twitter.com/vercel_support\">@vercel_support</a> Are you using puppeteer by any chance? I encountered this a few months ago and it was due to the usage of a headless browser. one other thing to note is that this limit applies to all of your cloud functions combined because at least back then, Vercel didn't code split them",
+  "full_html_link_qts": "<a href=\"https://twitter.com/browniefed\">@browniefed</a> <a href=\"https://twitter.com/vercel_support\">@vercel_support</a> Are you using puppeteer by any chance? I encountered this a few months ago and it was due to the usage of a headless browser. one other thing to note is that this limit applies to all of your cloud functions combined because at least back then, Vercel didn't code split them",
+  "media": [],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "browniefed",
+        "name": "Jason Brown",
+        "id": 548106686,
+        "id_str": "548106686",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "vercel_support",
+        "name": "Vercel Support",
+        "id": 1176246977467748353,
+        "id_str": "1176246977467748353",
+        "indices": [
+          12,
+          27
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "qts": [],
+  "thread_parent_id": "1334679817963245571",
+  "username": "hadi_hlk",
+  "user_displayname": "Abdul",
+  "user_pfp": "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",
+  "retrieved_date": "2022-04-19T17:12:23.905766"
+}

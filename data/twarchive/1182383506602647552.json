@@ -1,0 +1,33 @@
+{
+  "id": "1182383506602647552",
+  "date": "2019-10-10T19:52:50+00:00",
+  "date_original_format": "Thu Oct 10 19:52:50 +0000 2019",
+  "full_text": "1/ Refering to \"when you stop doing the wrong things, the right thing does itself.\"\n\nWhat does this mean? \n\nHere's an example: allowing yourself to walk without imposing your idea of what walking is like.\n\nSome people might recognise what follows as Alexander Technique.\n\n(thread) https://t.co/LZKA1v0D7P",
+  "full_html_strip_qts": "1/ Refering to \"when you stop doing the wrong things, the right thing does itself.\"<br/><br/>What does this mean? <br/><br/>Here's an example: allowing yourself to walk without imposing your idea of what walking is like.<br/><br/>Some people might recognise what follows as Alexander Technique.<br/><br/>(thread) ",
+  "full_html_link_qts": "1/ Refering to \"when you stop doing the wrong things, the right thing does itself.\"<br/><br/>What does this mean? <br/><br/>Here's an example: allowing yourself to walk without imposing your idea of what walking is like.<br/><br/>Some people might recognise what follows as Alexander Technique.<br/><br/>(thread) <a href=\"https://twitter.com/tweet_librarian/status/1182197961222168576\">twitter.com/tweet_libraria\u2026</a>",
+  "media": [],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/LZKA1v0D7P",
+        "expanded_url": "https://twitter.com/tweet_librarian/status/1182197961222168576",
+        "display_url": "twitter.com/tweet_libraria\u2026",
+        "indices": [
+          281,
+          304
+        ]
+      }
+    ]
+  },
+  "qts": [
+    "1182197961222168576"
+  ],
+  "thread_parent_id": null,
+  "username": "m_ashcroft",
+  "user_displayname": "Michael Ashcroft",
+  "user_pfp": "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",
+  "retrieved_date": "2022-04-19T17:01:19.431368"
+}

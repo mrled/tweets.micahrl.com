@@ -1,0 +1,31 @@
+{
+  "id": "1473624125142937603",
+  "date": "2021-12-22T11:59:04+00:00",
+  "date_original_format": "Wed Dec 22 11:59:04 +0000 2021",
+  "full_text": "mask requirements on airplanes are dehumanizing and miserable and the idea that they will never go away is pretty bleak https://t.co/EX0KyBKpbF",
+  "full_html_strip_qts": "mask requirements on airplanes are dehumanizing and miserable and the idea that they will never go away is pretty bleak <a href=\"https://thehill.com/changing-america/well-being/prevention-cures/586560-fauci-says-mask-wearing-on-planes-could-be-here\">thehill.com/changing-ameri\u2026</a>",
+  "full_html_link_qts": "mask requirements on airplanes are dehumanizing and miserable and the idea that they will never go away is pretty bleak <a href=\"https://thehill.com/changing-america/well-being/prevention-cures/586560-fauci-says-mask-wearing-on-planes-could-be-here\">thehill.com/changing-ameri\u2026</a>",
+  "media": [],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/EX0KyBKpbF",
+        "expanded_url": "https://thehill.com/changing-america/well-being/prevention-cures/586560-fauci-says-mask-wearing-on-planes-could-be-here",
+        "display_url": "thehill.com/changing-ameri\u2026",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  "qts": [],
+  "thread_parent_id": null,
+  "username": "katrosenfield",
+  "user_displayname": "Kat Rosenfield",
+  "user_pfp": "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",
+  "retrieved_date": "2022-04-19T16:30:33.414757"
+}

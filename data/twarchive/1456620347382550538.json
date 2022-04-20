@@ -1,0 +1,32 @@
+{
+  "id": "1456620347382550538",
+  "date": "2021-11-05T13:52:08+00:00",
+  "date_original_format": "Fri Nov 05 13:52:08 +0000 2021",
+  "full_text": "@matthew_d_green E2EE backups are at least an easy to understand difference; \"client-side scanning\" could mean anything, and a concern of the Apple initiative was that the meaning would change over time. But E2EE backups  required for E2EE to have any meaning at all. Not sure how to choose.",
+  "full_html_strip_qts": "<a href=\"https://twitter.com/matthew_d_green\">@matthew_d_green</a> E2EE backups are at least an easy to understand difference; \"client-side scanning\" could mean anything, and a concern of the Apple initiative was that the meaning would change over time. But E2EE backups  required for E2EE to have any meaning at all. Not sure how to choose.",
+  "full_html_link_qts": "<a href=\"https://twitter.com/matthew_d_green\">@matthew_d_green</a> E2EE backups are at least an easy to understand difference; \"client-side scanning\" could mean anything, and a concern of the Apple initiative was that the meaning would change over time. But E2EE backups  required for E2EE to have any meaning at all. Not sure how to choose.",
+  "media": [],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "matthew_d_green",
+        "name": "Matthew Green",
+        "id": 106234268,
+        "id_str": "106234268",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "qts": [],
+  "thread_parent_id": "1456592861202419713",
+  "username": "mrled",
+  "user_displayname": "Micah R Ledbetter /m\u0279\u0329\u02c8led/",
+  "user_pfp": "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",
+  "retrieved_date": "2022-04-19T16:30:55.965509"
+}

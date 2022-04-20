@@ -1,0 +1,84 @@
+{
+  "id": "1421102888391151616",
+  "date": "2021-07-30T13:38:26+00:00",
+  "date_original_format": "Fri Jul 30 13:38:26 +0000 2021",
+  "full_text": "RT @ahl: Always be sure to provide ample parking when presenting a google doc https://t.co/9tWKMLJvNq",
+  "full_html_strip_qts": "RT <a href=\"https://twitter.com/ahl\">@ahl</a>: Always be sure to provide ample parking when presenting a google doc ",
+  "full_html_link_qts": "RT <a href=\"https://twitter.com/ahl\">@ahl</a>: Always be sure to provide ample parking when presenting a google doc ",
+  "media": [
+    {
+      "media_type": "photo",
+      "content_type": "image/png",
+      "width": 524,
+      "height": 278,
+      "alttext": "",
+      "url": "https://pbs.twimg.com/media/E7gAz4bVcAE6_Mk.png",
+      "data": "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"
+    }
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ahl",
+        "name": "Adam Leventhal",
+        "id": 5438882,
+        "id_str": "5438882",
+        "indices": [
+          3,
+          7
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1420886573755756545,
+        "id_str": "1420886573755756545",
+        "indices": [
+          78,
+          101
+        ],
+        "media_url": "http://pbs.twimg.com/media/E7gAz4bVcAE6_Mk.png",
+        "media_url_https": "https://pbs.twimg.com/media/E7gAz4bVcAE6_Mk.png",
+        "url": "https://t.co/9tWKMLJvNq",
+        "display_url": "pic.twitter.com/9tWKMLJvNq",
+        "expanded_url": "https://twitter.com/ahl/status/1420886709974097921/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 524,
+            "h": 278,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 524,
+            "h": 278,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 524,
+            "h": 278,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        },
+        "source_status_id": 1420886709974097921,
+        "source_status_id_str": "1420886709974097921",
+        "source_user_id": 5438882,
+        "source_user_id_str": "5438882"
+      }
+    ]
+  },
+  "qts": [],
+  "thread_parent_id": null,
+  "username": "mrled",
+  "user_displayname": "Micah R Ledbetter /m\u0279\u0329\u02c8led/",
+  "user_pfp": "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",
+  "retrieved_date": "2022-04-19T17:01:08.559394"
+}

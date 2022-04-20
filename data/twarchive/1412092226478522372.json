@@ -1,0 +1,31 @@
+{
+  "id": "1412092226478522372",
+  "date": "2021-07-05T16:53:16+00:00",
+  "date_original_format": "Mon Jul 05 16:53:16 +0000 2021",
+  "full_text": "Imagine if emulators were designed as a cluster of microservices where instructions were delivered via individual POST requests\u2026\n\n https://t.co/UcMdJqSaYi",
+  "full_html_strip_qts": "Imagine if emulators were designed as a cluster of microservices where instructions were delivered via individual POST requests\u2026<br/><br/> <a href=\"https://blog.davetcode.co.uk/post/21st-century-emulator/\">blog.davetcode.co.uk/post/21st-cent\u2026</a>",
+  "full_html_link_qts": "Imagine if emulators were designed as a cluster of microservices where instructions were delivered via individual POST requests\u2026<br/><br/> <a href=\"https://blog.davetcode.co.uk/post/21st-century-emulator/\">blog.davetcode.co.uk/post/21st-cent\u2026</a>",
+  "media": [],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/UcMdJqSaYi",
+        "expanded_url": "https://blog.davetcode.co.uk/post/21st-century-emulator/",
+        "display_url": "blog.davetcode.co.uk/post/21st-cent\u2026",
+        "indices": [
+          131,
+          154
+        ]
+      }
+    ]
+  },
+  "qts": [],
+  "thread_parent_id": null,
+  "username": "stroughtonsmith",
+  "user_displayname": "Steve Troughton-Smith",
+  "user_pfp": "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",
+  "retrieved_date": "2022-04-19T17:01:24.055695"
+}
