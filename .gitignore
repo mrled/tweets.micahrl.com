@@ -2,4 +2,7 @@
 *.swp
 public/
 resources/
+venv/
 
+# Sometimes I symlink the twarchive theme for local development
+themes/twarchive
