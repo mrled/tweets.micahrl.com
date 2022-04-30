@@ -15,11 +15,7 @@ dev: ## Run the local development server
 	hugo server \
 		--buildDrafts \
 		--buildFuture \
-		--cleanDestinationDir \
 		--disableFastRender \
-		--enableGitInfo \
-		--ignoreCache \
-		--printPathWarnings \
 		--bind 0.0.0.0 \
 		--baseURL ${DEVHOST} \
 		--port ${DEVPORT} \
