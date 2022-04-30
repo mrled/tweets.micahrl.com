@@ -1,10 +1,11 @@
+## Default site configuration
+
 baseURL: https://tweets.micahrl.com
 languageCode: en-us
 title: Micah R Ledbetter Tweet Archive
 
 theme:
 - github.com/mrled/twarchive
-# - twarchive
 
 mediaTypes:
   text/netlify:
