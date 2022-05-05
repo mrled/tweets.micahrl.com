@@ -42,42 +42,8 @@ a {
   }
 }
 
-.tweet-table {
-  .tweet-table-row-date-username {
-    .tweet-table-date, .tweet-table-username {
-      padding-top: 0.5em;
-      font-size: 14px;
-    }
-  }
-  .tweet-table-row-text {
-    .tweet-table-text {
-      overflow-x: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-      display: inline-block;
-      width: var(--content-width);
-      border-bottom: 1px solid var(--tweets-micahrl-fg-color);
-      padding-bottom: 1em;
-      font-size: 12px;
-      color: var(--twarchive-twitter-darkgray);
-    }
-  }
-}
-
 @media (max-width: 400px) {
   :root {
     --content-width: 24em;
-  }
-  .tweet-table {
-    .tweet-table-row-date-username {
-      .tweet-table-date, .tweet-table-username {
-        font-size: 12px;
-      }
-    }
-    .tweet-table-row-text {
-      .tweet-table-text {
-        font-size: 10px;
-      }
-    }
   }
 }
