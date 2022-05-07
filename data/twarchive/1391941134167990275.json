@@ -1,21 +1,24 @@
 {
-  "id": "1391941134167990275",
   "date": "2021-05-11T02:20:02+00:00",
   "date_original_format": "Tue May 11 02:20:02 +0000 2021",
-  "full_text": "what's one book you adore that, if you learn someone else loves it, makes them your friend for life?\n\n(anyone who loves Jonathan Strange &amp; Mr Norrell is automatically a kindred spirit.)",
-  "full_html_strip_qts": "what's one book you adore that, if you learn someone else loves it, makes them your friend for life?<br/><br/>(anyone who loves Jonathan Strange &amp; Mr Norrell is automatically a kindred spirit.)",
-  "full_html_link_qts": "what's one book you adore that, if you learn someone else loves it, makes them your friend for life?<br/><br/>(anyone who loves Jonathan Strange &amp; Mr Norrell is automatically a kindred spirit.)",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
-    "urls": []
+    "urls": [],
+    "user_mentions": []
   },
+  "full_html_link_qts": "what's one book you adore that, if you learn someone else loves it, makes them your friend for life?<br/><br/>(anyone who loves Jonathan Strange &amp; Mr Norrell is automatically a kindred spirit.)",
+  "full_html_strip_qts": "what's one book you adore that, if you learn someone else loves it, makes them your friend for life?<br/><br/>(anyone who loves Jonathan Strange &amp; Mr Norrell is automatically a kindred spirit.)",
+  "full_text": "what's one book you adore that, if you learn someone else loves it, makes them your friend for life?\n\n(anyone who loves Jonathan Strange &amp; Mr Norrell is automatically a kindred spirit.)",
+  "id": "1391941134167990275",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T17:01:37.871561",
+  "rt_of": "",
   "thread_parent_id": null,
-  "username": "SketchesbyBoze",
   "user_displayname": "Owl! at the Library \ud83d\ude34\ud83e\uddd9\u200d\u2640\ufe0f",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T17:01:37.871561"
+  "username": "SketchesbyBoze"
 }

@@ -1,31 +1,34 @@
 {
-  "id": "1473106294064173060",
   "date": "2021-12-21T01:41:24+00:00",
   "date_original_format": "Tue Dec 21 01:41:24 +0000 2021",
-  "full_text": "Barry's \"Levinson\" \ud83d\ude0f\nhttps://t.co/CzsVkoYOpg",
-  "full_html_strip_qts": "Barry's \"Levinson\" \ud83d\ude0f<br/><a href=\"https://en.wikipedia.org/wiki/Barry_Levinson\">en.wikipedia.org/wiki/Barry_Lev\u2026</a>",
-  "full_html_link_qts": "Barry's \"Levinson\" \ud83d\ude0f<br/><a href=\"https://en.wikipedia.org/wiki/Barry_Levinson\">en.wikipedia.org/wiki/Barry_Lev\u2026</a>",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/CzsVkoYOpg",
-        "expanded_url": "https://en.wikipedia.org/wiki/Barry_Levinson",
         "display_url": "en.wikipedia.org/wiki/Barry_Lev\u2026",
+        "expanded_url": "https://en.wikipedia.org/wiki/Barry_Levinson",
         "indices": [
           21,
           44
-        ]
+        ],
+        "url": "https://t.co/CzsVkoYOpg"
       }
-    ]
+    ],
+    "user_mentions": []
   },
+  "full_html_link_qts": "Barry's \"Levinson\" \ud83d\ude0f<br/><a href=\"https://en.wikipedia.org/wiki/Barry_Levinson\">en.wikipedia.org/wiki/Barry_Lev\u2026</a>",
+  "full_html_strip_qts": "Barry's \"Levinson\" \ud83d\ude0f<br/><a href=\"https://en.wikipedia.org/wiki/Barry_Levinson\">en.wikipedia.org/wiki/Barry_Lev\u2026</a>",
+  "full_text": "Barry's \"Levinson\" \ud83d\ude0f\nhttps://t.co/CzsVkoYOpg",
+  "id": "1473106294064173060",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T16:30:47.932440",
+  "rt_of": "",
   "thread_parent_id": null,
-  "username": "SalaciousPat",
   "user_displayname": "Salacious Patronym",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T16:30:47.932440"
+  "username": "SalaciousPat"
 }

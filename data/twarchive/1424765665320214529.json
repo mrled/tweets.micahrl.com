@@ -1,33 +1,36 @@
 {
-  "id": "1424765665320214529",
   "date": "2021-08-09T16:13:00+00:00",
   "date_original_format": "Mon Aug 09 16:13:00 +0000 2021",
-  "full_text": "Speaking as someone who has litigated and lost on this exact issue in three countries (UK, Germany, France), I feel confident in saying the firm refusal to filter for new things beyond CSAM doesn\u2019t mean much in the face of state power. https://t.co/tFVTyq05Iy",
-  "full_html_strip_qts": "Speaking as someone who has litigated and lost on this exact issue in three countries (UK, Germany, France), I feel confident in saying the firm refusal to filter for new things beyond CSAM doesn\u2019t mean much in the face of state power. ",
-  "full_html_link_qts": "Speaking as someone who has litigated and lost on this exact issue in three countries (UK, Germany, France), I feel confident in saying the firm refusal to filter for new things beyond CSAM doesn\u2019t mean much in the face of state power. <a href=\"https://twitter.com/elizabeth_joh/status/1424737315864289283\">twitter.com/elizabeth_joh/\u2026</a>",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/tFVTyq05Iy",
-        "expanded_url": "https://twitter.com/elizabeth_joh/status/1424737315864289283",
         "display_url": "twitter.com/elizabeth_joh/\u2026",
+        "expanded_url": "https://twitter.com/elizabeth_joh/status/1424737315864289283",
         "indices": [
           236,
           259
-        ]
+        ],
+        "url": "https://t.co/tFVTyq05Iy"
       }
-    ]
+    ],
+    "user_mentions": []
   },
+  "full_html_link_qts": "Speaking as someone who has litigated and lost on this exact issue in three countries (UK, Germany, France), I feel confident in saying the firm refusal to filter for new things beyond CSAM doesn\u2019t mean much in the face of state power. <a href=\"https://twitter.com/elizabeth_joh/status/1424737315864289283\">twitter.com/elizabeth_joh/\u2026</a>",
+  "full_html_strip_qts": "Speaking as someone who has litigated and lost on this exact issue in three countries (UK, Germany, France), I feel confident in saying the firm refusal to filter for new things beyond CSAM doesn\u2019t mean much in the face of state power. ",
+  "full_text": "Speaking as someone who has litigated and lost on this exact issue in three countries (UK, Germany, France), I feel confident in saying the firm refusal to filter for new things beyond CSAM doesn\u2019t mean much in the face of state power. https://t.co/tFVTyq05Iy",
+  "id": "1424765665320214529",
+  "media": [],
   "qts": [
     "1424737315864289283"
   ],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-14T02:20:07.924497",
+  "rt_of": "",
   "thread_parent_id": null,
-  "username": "daphnehk",
   "user_displayname": "Daphne Keller",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-14T02:20:07.924497"
+  "username": "daphnehk"
 }

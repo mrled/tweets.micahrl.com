@@ -1,33 +1,36 @@
 {
-  "id": "1440653643275931654",
   "date": "2021-09-22T12:26:09+00:00",
   "date_original_format": "Wed Sep 22 12:26:09 +0000 2021",
-  "full_text": "Mine:\n\n- Desktop app (TBD)\n- Clojure UI Framework (TBD)\n- Window management (JWM)\n- Vector graphics (Skija)\n- Patches to Clojure Core\n- Sublime REPL (TBD)\n- Python build scripts\n- Color scheme (Alabaster)\n- Font (Fira Code)\n- Custom keyboard &amp; layout (Helix) https://t.co/8mShTklszM",
-  "full_html_strip_qts": "Mine:<br/><br/>- Desktop app (TBD)<br/>- Clojure UI Framework (TBD)<br/>- Window management (JWM)<br/>- Vector graphics (Skija)<br/>- Patches to Clojure Core<br/>- Sublime REPL (TBD)<br/>- Python build scripts<br/>- Color scheme (Alabaster)<br/>- Font (Fira Code)<br/>- Custom keyboard &amp; layout (Helix) ",
-  "full_html_link_qts": "Mine:<br/><br/>- Desktop app (TBD)<br/>- Clojure UI Framework (TBD)<br/>- Window management (JWM)<br/>- Vector graphics (Skija)<br/>- Patches to Clojure Core<br/>- Sublime REPL (TBD)<br/>- Python build scripts<br/>- Color scheme (Alabaster)<br/>- Font (Fira Code)<br/>- Custom keyboard &amp; layout (Helix) <a href=\"https://twitter.com/andy_kelley/status/1440556465173925905\">twitter.com/andy_kelley/st\u2026</a>",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/8mShTklszM",
-        "expanded_url": "https://twitter.com/andy_kelley/status/1440556465173925905",
         "display_url": "twitter.com/andy_kelley/st\u2026",
+        "expanded_url": "https://twitter.com/andy_kelley/status/1440556465173925905",
         "indices": [
           263,
           286
-        ]
+        ],
+        "url": "https://t.co/8mShTklszM"
       }
-    ]
+    ],
+    "user_mentions": []
   },
+  "full_html_link_qts": "Mine:<br/><br/>- Desktop app (TBD)<br/>- Clojure UI Framework (TBD)<br/>- Window management (JWM)<br/>- Vector graphics (Skija)<br/>- Patches to Clojure Core<br/>- Sublime REPL (TBD)<br/>- Python build scripts<br/>- Color scheme (Alabaster)<br/>- Font (Fira Code)<br/>- Custom keyboard &amp; layout (Helix) <a href=\"https://twitter.com/andy_kelley/status/1440556465173925905\">twitter.com/andy_kelley/st\u2026</a>",
+  "full_html_strip_qts": "Mine:<br/><br/>- Desktop app (TBD)<br/>- Clojure UI Framework (TBD)<br/>- Window management (JWM)<br/>- Vector graphics (Skija)<br/>- Patches to Clojure Core<br/>- Sublime REPL (TBD)<br/>- Python build scripts<br/>- Color scheme (Alabaster)<br/>- Font (Fira Code)<br/>- Custom keyboard &amp; layout (Helix) ",
+  "full_text": "Mine:\n\n- Desktop app (TBD)\n- Clojure UI Framework (TBD)\n- Window management (JWM)\n- Vector graphics (Skija)\n- Patches to Clojure Core\n- Sublime REPL (TBD)\n- Python build scripts\n- Color scheme (Alabaster)\n- Font (Fira Code)\n- Custom keyboard &amp; layout (Helix) https://t.co/8mShTklszM",
+  "id": "1440653643275931654",
+  "media": [],
   "qts": [
     "1440556465173925905"
   ],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T16:31:17.233164",
+  "rt_of": "",
   "thread_parent_id": null,
-  "username": "nikitonsky",
   "user_displayname": "Niki Tonsky",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T16:31:17.233164"
+  "username": "nikitonsky"
 }

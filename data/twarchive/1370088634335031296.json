@@ -1,42 +1,45 @@
 {
-  "id": "1370088634335031296",
   "date": "2021-03-11T19:06:00+00:00",
   "date_original_format": "Thu Mar 11 19:06:00 +0000 2021",
-  "full_text": "@ChrisAldrich @mrled It needs so much love to make even s little bit better... But yes!",
-  "full_html_strip_qts": "<a href=\"https://twitter.com/ChrisAldrich\">@ChrisAldrich</a> <a href=\"https://twitter.com/mrled\">@mrled</a> It needs so much love to make even s little bit better... But yes!",
-  "full_html_link_qts": "<a href=\"https://twitter.com/ChrisAldrich\">@ChrisAldrich</a> <a href=\"https://twitter.com/mrled\">@mrled</a> It needs so much love to make even s little bit better... But yes!",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
+    "urls": [],
     "user_mentions": [
       {
-        "screen_name": "ChrisAldrich",
-        "name": "Chris Aldrich",
         "id": 13645402,
         "id_str": "13645402",
         "indices": [
           0,
           13
-        ]
+        ],
+        "name": "Chris Aldrich",
+        "screen_name": "ChrisAldrich"
       },
       {
-        "screen_name": "mrled",
-        "name": "Micah R Ledbetter /m\u0279\u0329\u02c8led/",
         "id": 35010911,
         "id_str": "35010911",
         "indices": [
           14,
           20
-        ]
+        ],
+        "name": "Micah R Ledbetter /m\u0279\u0329\u02c8led/",
+        "screen_name": "mrled"
       }
-    ],
-    "urls": []
+    ]
   },
+  "full_html_link_qts": "<a href=\"https://twitter.com/ChrisAldrich\">@ChrisAldrich</a> <a href=\"https://twitter.com/mrled\">@mrled</a> It needs so much love to make even s little bit better... But yes!",
+  "full_html_strip_qts": "<a href=\"https://twitter.com/ChrisAldrich\">@ChrisAldrich</a> <a href=\"https://twitter.com/mrled\">@mrled</a> It needs so much love to make even s little bit better... But yes!",
+  "full_text": "@ChrisAldrich @mrled It needs so much love to make even s little bit better... But yes!",
+  "id": "1370088634335031296",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T17:12:05.719252",
+  "rt_of": "",
   "thread_parent_id": "1370075345089556481",
-  "username": "julien51",
   "user_displayname": "J\u1d7elien Genestoux",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T17:12:05.719252"
+  "username": "julien51"
 }

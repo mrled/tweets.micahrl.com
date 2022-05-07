@@ -1,31 +1,34 @@
 {
-  "id": "1480945545640550401",
   "date": "2022-01-11T16:51:47+00:00",
   "date_original_format": "Tue Jan 11 16:51:47 +0000 2022",
-  "full_text": "An orange comment suggests that the infamous \u201chttps://t.co/pJmDk8VVD1\u201d (the premium software companies charge to link up your single sign-on) is a \u201cdark pattern\u201d. I strongly object. Words mean things.",
-  "full_html_strip_qts": "An orange comment suggests that the infamous \u201c<a href=\"http://sso.tax\">sso.tax</a>\u201d (the premium software companies charge to link up your single sign-on) is a \u201cdark pattern\u201d. I strongly object. Words mean things.",
-  "full_html_link_qts": "An orange comment suggests that the infamous \u201c<a href=\"http://sso.tax\">sso.tax</a>\u201d (the premium software companies charge to link up your single sign-on) is a \u201cdark pattern\u201d. I strongly object. Words mean things.",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/pJmDk8VVD1",
-        "expanded_url": "http://sso.tax",
         "display_url": "sso.tax",
+        "expanded_url": "http://sso.tax",
         "indices": [
           46,
           69
-        ]
+        ],
+        "url": "https://t.co/pJmDk8VVD1"
       }
-    ]
+    ],
+    "user_mentions": []
   },
+  "full_html_link_qts": "An orange comment suggests that the infamous \u201c<a href=\"http://sso.tax\">sso.tax</a>\u201d (the premium software companies charge to link up your single sign-on) is a \u201cdark pattern\u201d. I strongly object. Words mean things.",
+  "full_html_strip_qts": "An orange comment suggests that the infamous \u201c<a href=\"http://sso.tax\">sso.tax</a>\u201d (the premium software companies charge to link up your single sign-on) is a \u201cdark pattern\u201d. I strongly object. Words mean things.",
+  "full_text": "An orange comment suggests that the infamous \u201chttps://t.co/pJmDk8VVD1\u201d (the premium software companies charge to link up your single sign-on) is a \u201cdark pattern\u201d. I strongly object. Words mean things.",
+  "id": "1480945545640550401",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T16:30:34.644285",
+  "rt_of": "",
   "thread_parent_id": null,
-  "username": "tqbf",
   "user_displayname": "Thomas H. Ptacek",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T16:30:34.644285"
+  "username": "tqbf"
 }

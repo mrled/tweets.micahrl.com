@@ -1,21 +1,24 @@
 {
-  "id": "91041251696181249",
   "date": "2011-07-13T07:08:20+00:00",
   "date_original_format": "Wed Jul 13 07:08:20 +0000 2011",
-  "full_text": "Fed up with PDF forms which I know are going to be printed out, scanned, emailed, then copy-typed. Put your form on the web FFS!",
-  "full_html_strip_qts": "Fed up with PDF forms which I know are going to be printed out, scanned, emailed, then copy-typed. Put your form on the web FFS!",
-  "full_html_link_qts": "Fed up with PDF forms which I know are going to be printed out, scanned, emailed, then copy-typed. Put your form on the web FFS!",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
-    "urls": []
+    "urls": [],
+    "user_mentions": []
   },
+  "full_html_link_qts": "Fed up with PDF forms which I know are going to be printed out, scanned, emailed, then copy-typed. Put your form on the web FFS!",
+  "full_html_strip_qts": "Fed up with PDF forms which I know are going to be printed out, scanned, emailed, then copy-typed. Put your form on the web FFS!",
+  "full_text": "Fed up with PDF forms which I know are going to be printed out, scanned, emailed, then copy-typed. Put your form on the web FFS!",
+  "id": "91041251696181249",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T17:01:18.480105",
+  "rt_of": "",
   "thread_parent_id": null,
-  "username": "edent",
   "user_displayname": "Terence Eden",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T17:01:18.480105"
+  "username": "edent"
 }

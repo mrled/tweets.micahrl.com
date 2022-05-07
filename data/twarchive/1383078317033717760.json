@@ -1,21 +1,24 @@
 {
-  "id": "1383078317033717760",
   "date": "2021-04-16T15:22:21+00:00",
   "date_original_format": "Fri Apr 16 15:22:21 +0000 2021",
-  "full_text": "What's one software/hardware general usage trick that you use nearly every day that you don't think many others use?  Mine is the Quake-like \"Hotkey Window\" built into iTerm2. Not having to figure out which desktop that terminal window is on is life changing. What's yours?",
-  "full_html_strip_qts": "What's one software/hardware general usage trick that you use nearly every day that you don't think many others use?  Mine is the Quake-like \"Hotkey Window\" built into iTerm2. Not having to figure out which desktop that terminal window is on is life changing. What's yours?",
-  "full_html_link_qts": "What's one software/hardware general usage trick that you use nearly every day that you don't think many others use?  Mine is the Quake-like \"Hotkey Window\" built into iTerm2. Not having to figure out which desktop that terminal window is on is life changing. What's yours?",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
-    "urls": []
+    "urls": [],
+    "user_mentions": []
   },
+  "full_html_link_qts": "What's one software/hardware general usage trick that you use nearly every day that you don't think many others use?  Mine is the Quake-like \"Hotkey Window\" built into iTerm2. Not having to figure out which desktop that terminal window is on is life changing. What's yours?",
+  "full_html_strip_qts": "What's one software/hardware general usage trick that you use nearly every day that you don't think many others use?  Mine is the Quake-like \"Hotkey Window\" built into iTerm2. Not having to figure out which desktop that terminal window is on is life changing. What's yours?",
+  "full_text": "What's one software/hardware general usage trick that you use nearly every day that you don't think many others use?  Mine is the Quake-like \"Hotkey Window\" built into iTerm2. Not having to figure out which desktop that terminal window is on is life changing. What's yours?",
+  "id": "1383078317033717760",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T17:11:52.485335",
+  "rt_of": "",
   "thread_parent_id": null,
-  "username": "mubix",
   "user_displayname": "Rob Fuller",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T17:11:52.485335"
+  "username": "mubix"
 }

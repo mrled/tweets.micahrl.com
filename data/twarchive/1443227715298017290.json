@@ -1,21 +1,24 @@
 {
-  "id": "1443227715298017290",
   "date": "2021-09-29T14:54:35+00:00",
   "date_original_format": "Wed Sep 29 14:54:35 +0000 2021",
-  "full_text": "(3/6) I understand for a lot of people \"open source\" means a Richard Stallman definition of software should be free, but I think language evolves, and I think in modern day \"open source\" is a fair characterization of code that is on GitHub for all to see and peruse.",
-  "full_html_strip_qts": "(3/6) I understand for a lot of people \"open source\" means a Richard Stallman definition of software should be free, but I think language evolves, and I think in modern day \"open source\" is a fair characterization of code that is on GitHub for all to see and peruse.",
-  "full_html_link_qts": "(3/6) I understand for a lot of people \"open source\" means a Richard Stallman definition of software should be free, but I think language evolves, and I think in modern day \"open source\" is a fair characterization of code that is on GitHub for all to see and peruse.",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
-    "urls": []
+    "urls": [],
+    "user_mentions": []
   },
+  "full_html_link_qts": "(3/6) I understand for a lot of people \"open source\" means a Richard Stallman definition of software should be free, but I think language evolves, and I think in modern day \"open source\" is a fair characterization of code that is on GitHub for all to see and peruse.",
+  "full_html_strip_qts": "(3/6) I understand for a lot of people \"open source\" means a Richard Stallman definition of software should be free, but I think language evolves, and I think in modern day \"open source\" is a fair characterization of code that is on GitHub for all to see and peruse.",
+  "full_text": "(3/6) I understand for a lot of people \"open source\" means a Richard Stallman definition of software should be free, but I think language evolves, and I think in modern day \"open source\" is a fair characterization of code that is on GitHub for all to see and peruse.",
+  "id": "1443227715298017290",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T16:31:12.507809",
+  "rt_of": "",
   "thread_parent_id": "1443227713968410627",
-  "username": "ChristianSelig",
   "user_displayname": "Christian Selig",
   "user_pfp": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gKgSUNDX1BST0ZJTEUAAQEAAAKQbGNtcwQwAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwQVBQTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLWxjbXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtkZXNjAAABCAAAADhjcHJ0AAABQAAAAE53dHB0AAABkAAAABRjaGFkAAABpAAAACxyWFlaAAAB0AAAABRiWFlaAAAB5AAAABRnWFlaAAAB+AAAABRyVFJDAAACDAAAACBnVFJDAAACLAAAACBiVFJDAAACTAAAACBjaHJtAAACbAAAACRtbHVjAAAAAAAAAAEAAAAMZW5VUwAAABwAAAAcAHMAUgBHAEIAIABiAHUAaQBsAHQALQBpAG4AAG1sdWMAAAAAAAAAAQAAAAxlblVTAAAAMgAAABwATgBvACAAYwBvAHAAeQByAGkAZwBoAHQALAAgAHUAcwBlACAAZgByAGUAZQBsAHkAAAAAWFlaIAAAAAAAAPbWAAEAAAAA0y1zZjMyAAAAAAABDEoAAAXj///zKgAAB5sAAP2H///7ov///aMAAAPYAADAlFhZWiAAAAAAAABvlAAAOO4AAAOQWFlaIAAAAAAAACSdAAAPgwAAtr5YWVogAAAAAAAAYqUAALeQAAAY3nBhcmEAAAAAAAMAAAACZmYAAPKnAAANWQAAE9AAAApbcGFyYQAAAAAAAwAAAAJmZgAA8qcAAA1ZAAAT0AAACltwYXJhAAAAAAADAAAAAmZmAADypwAADVkAABPQAAAKW2Nocm0AAAAAAAMAAAAAo9cAAFR7AABMzQAAmZoAACZmAAAPXP/bAEMABQMEBAQDBQQEBAUFBQYHDAgHBwcHDwsLCQwRDxISEQ8RERMWHBcTFBoVEREYIRgaHR0fHx8TFyIkIh4kHB4fHv/bAEMBBQUFBwYHDggIDh4UERQeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHv/CABEIADAAMAMBIgACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAAFBgcDBAH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGM06Y0Y1TbxMSfedORm8pJYPOADvFAP06DaUJ8QYWA62MgITmf/8QAHxAAAgICAgMBAAAAAAAAAAAAAwQBAgAFBhEQEhMy/9oACAEBAAEFAs4LPU77XPNGYSOvXzwuesC/IRtEu7hxWET0n1zi5KiCLbfQ8U+Wtb/R5iK9T2qr9KvcfrTG7Sone9imYFlNjx6cE/xrEthqy23cgZM0xq1sKzW2CAsQTaOkphHxLCaauzeZyZz/xAAUEQEAAAAAAAAAAAAAAAAAAAAw/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAw/9oACAECAQE/AR//xAArEAACAgECAwYHAQAAAAAAAAABAgARAxIhBCIxBRBBcqHRFCAjNGGBkfH/2gAIAQEABj8CnGeVY+VELhTtXUy8gr5OM8ohUKDGpEojcA9JpYTV3cbkc0oQXMoyZNOM7Y+WC00sfCWQJy731lRfqmmbmQK3+TH8Ox11zB2iLly2SAdzKG9zTN+yF/V+8+x0/wB95o4XhchA66SaHrLyFVRWpSLsfiY04PG9qKcsNyYSqG/C4AezceQVsdFzTk4YIx6aMu8GLBsybAiFn9O//8QAIhABAAIBBAEFAQAAAAAAAAAAAQARITFBUXFhgZGxwfAg/9oACAEBAAE/IZ+gaxTKOAldNP4y37uXYLfR94GisU34RhQ4myYjLPdV6xKMlH3epeyvWHTP3KpQRiQb7AlS1dRMQAAGr5qK0SxNeqolknizjyXN85iVFzJrNEHaA6od5LNegPZCWgQV59uXeLWDdnkz+fRAx4GU9WVCZoMDsGGekUfnmLBW9YZ5g3dK8st5n//aAAwDAQACAAMAAAAQ4scsAsgQk//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQIBAT8QH//EACQQAQEAAgIBAwQDAAAAAAAAAAERACExQVFhcZEQgaHRscHw/9oACAEBAAE/EOsOnv8Am52AXJLTV6OCcGNTB3Go94248/Rdift5Mb3aUn+b4xAYLHaI0Cj2OOsQ1dJ6YK6hUr5lnxgmEVeHo/vlxfCLyy2p8jb4MTT14R0WnQB++UwQlLMfqMXEQug9nExbOQLgya25EK7yDrblAiC043iOrX04zeukrerABs3bvFO9Ene86c3zx4HbF4H2wskp21cQJpuZ4ej84nMsygE2W2EhWdYldtCRtNg9Q0Yc45n5HH3zAJCcNqduO2HfFsUA47yWUfRzau3m4fe0QQ72PPG8Akr7j85Z+2f/2SAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
-  "retrieved_date": "2022-04-19T16:31:12.507809"
+  "username": "ChristianSelig"
 }

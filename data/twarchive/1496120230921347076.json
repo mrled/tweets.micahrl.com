@@ -1,52 +1,55 @@
 {
-  "id": "1496120230921347076",
   "date": "2022-02-22T13:50:34+00:00",
   "date_original_format": "Tue Feb 22 13:50:34 +0000 2022",
-  "full_text": "@RatOrthodox @Aella_Girl I tried \u201ctell me more?\u201d Several times from a @SwiftOnSecurity tweet suggesting it and it surprised me how successful it was at starting a conversation and getting three other person to open up",
-  "full_html_strip_qts": "<a href=\"https://twitter.com/RatOrthodox\">@RatOrthodox</a> <a href=\"https://twitter.com/Aella_Girl\">@Aella_Girl</a> I tried \u201ctell me more?\u201d Several times from a <a href=\"https://twitter.com/SwiftOnSecurity\">@SwiftOnSecurity</a> tweet suggesting it and it surprised me how successful it was at starting a conversation and getting three other person to open up",
-  "full_html_link_qts": "<a href=\"https://twitter.com/RatOrthodox\">@RatOrthodox</a> <a href=\"https://twitter.com/Aella_Girl\">@Aella_Girl</a> I tried \u201ctell me more?\u201d Several times from a <a href=\"https://twitter.com/SwiftOnSecurity\">@SwiftOnSecurity</a> tweet suggesting it and it surprised me how successful it was at starting a conversation and getting three other person to open up",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
+    "urls": [],
     "user_mentions": [
       {
-        "screen_name": "RatOrthodox",
-        "name": "Ronny Fernandez",
         "id": 1360367297500741642,
         "id_str": "1360367297500741642",
         "indices": [
           0,
           12
-        ]
+        ],
+        "name": "Ronny Fernandez",
+        "screen_name": "RatOrthodox"
       },
       {
-        "screen_name": "Aella_Girl",
-        "name": "Aella",
         "id": 795885295,
         "id_str": "795885295",
         "indices": [
           13,
           24
-        ]
+        ],
+        "name": "Aella",
+        "screen_name": "Aella_Girl"
       },
       {
-        "screen_name": "SwiftOnSecurity",
-        "name": "SwiftOnSecurity",
         "id": 2436389418,
         "id_str": "2436389418",
         "indices": [
           70,
           86
-        ]
+        ],
+        "name": "SwiftOnSecurity",
+        "screen_name": "SwiftOnSecurity"
       }
-    ],
-    "urls": []
+    ]
   },
+  "full_html_link_qts": "<a href=\"https://twitter.com/RatOrthodox\">@RatOrthodox</a> <a href=\"https://twitter.com/Aella_Girl\">@Aella_Girl</a> I tried \u201ctell me more?\u201d Several times from a <a href=\"https://twitter.com/SwiftOnSecurity\">@SwiftOnSecurity</a> tweet suggesting it and it surprised me how successful it was at starting a conversation and getting three other person to open up",
+  "full_html_strip_qts": "<a href=\"https://twitter.com/RatOrthodox\">@RatOrthodox</a> <a href=\"https://twitter.com/Aella_Girl\">@Aella_Girl</a> I tried \u201ctell me more?\u201d Several times from a <a href=\"https://twitter.com/SwiftOnSecurity\">@SwiftOnSecurity</a> tweet suggesting it and it surprised me how successful it was at starting a conversation and getting three other person to open up",
+  "full_text": "@RatOrthodox @Aella_Girl I tried \u201ctell me more?\u201d Several times from a @SwiftOnSecurity tweet suggesting it and it surprised me how successful it was at starting a conversation and getting three other person to open up",
+  "id": "1496120230921347076",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T16:30:25.331873",
+  "rt_of": "",
   "thread_parent_id": "1495947703020306432",
-  "username": "mrled",
   "user_displayname": "Micah R Ledbetter /m\u0279\u0329\u02c8led/",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T16:30:25.331873"
+  "username": "mrled"
 }

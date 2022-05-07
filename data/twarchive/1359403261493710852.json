@@ -1,21 +1,24 @@
 {
-  "id": "1359403261493710852",
   "date": "2021-02-10T07:26:08+00:00",
   "date_original_format": "Wed Feb 10 07:26:08 +0000 2021",
-  "full_text": "Convincing all my homies to get split keyboards. Think of all the room your hands and arms will have with that keyboard split in two dude. All that space to relax. To chill. You can even put a track ball in the middle. Just something to consider, friend.",
-  "full_html_strip_qts": "Convincing all my homies to get split keyboards. Think of all the room your hands and arms will have with that keyboard split in two dude. All that space to relax. To chill. You can even put a track ball in the middle. Just something to consider, friend.",
-  "full_html_link_qts": "Convincing all my homies to get split keyboards. Think of all the room your hands and arms will have with that keyboard split in two dude. All that space to relax. To chill. You can even put a track ball in the middle. Just something to consider, friend.",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
-    "urls": []
+    "urls": [],
+    "user_mentions": []
   },
+  "full_html_link_qts": "Convincing all my homies to get split keyboards. Think of all the room your hands and arms will have with that keyboard split in two dude. All that space to relax. To chill. You can even put a track ball in the middle. Just something to consider, friend.",
+  "full_html_strip_qts": "Convincing all my homies to get split keyboards. Think of all the room your hands and arms will have with that keyboard split in two dude. All that space to relax. To chill. You can even put a track ball in the middle. Just something to consider, friend.",
+  "full_text": "Convincing all my homies to get split keyboards. Think of all the room your hands and arms will have with that keyboard split in two dude. All that space to relax. To chill. You can even put a track ball in the middle. Just something to consider, friend.",
+  "id": "1359403261493710852",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T17:12:13.933242",
+  "rt_of": "",
   "thread_parent_id": null,
-  "username": "Papapishu",
   "user_displayname": "chris person",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T17:12:13.933242"
+  "username": "Papapishu"
 }

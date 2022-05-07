@@ -1,21 +1,24 @@
 {
-  "id": "1421579465289830400",
   "date": "2021-07-31T21:12:10+00:00",
   "date_original_format": "Sat Jul 31 21:12:10 +0000 2021",
-  "full_text": "Games are some of the only softwares incentivized to run extremely fast:\n\n- educated public sensitive to perf\n- scrutiny from tech journalists\n- strong competition\n\nGamedevs HAVE to care. In many fields, almost no performance / revenue correlation, so it's an afterthought.",
-  "full_html_strip_qts": "Games are some of the only softwares incentivized to run extremely fast:<br/><br/>- educated public sensitive to perf<br/>- scrutiny from tech journalists<br/>- strong competition<br/><br/>Gamedevs HAVE to care. In many fields, almost no performance / revenue correlation, so it's an afterthought.",
-  "full_html_link_qts": "Games are some of the only softwares incentivized to run extremely fast:<br/><br/>- educated public sensitive to perf<br/>- scrutiny from tech journalists<br/>- strong competition<br/><br/>Gamedevs HAVE to care. In many fields, almost no performance / revenue correlation, so it's an afterthought.",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
-    "urls": []
+    "urls": [],
+    "user_mentions": []
   },
+  "full_html_link_qts": "Games are some of the only softwares incentivized to run extremely fast:<br/><br/>- educated public sensitive to perf<br/>- scrutiny from tech journalists<br/>- strong competition<br/><br/>Gamedevs HAVE to care. In many fields, almost no performance / revenue correlation, so it's an afterthought.",
+  "full_html_strip_qts": "Games are some of the only softwares incentivized to run extremely fast:<br/><br/>- educated public sensitive to perf<br/>- scrutiny from tech journalists<br/>- strong competition<br/><br/>Gamedevs HAVE to care. In many fields, almost no performance / revenue correlation, so it's an afterthought.",
+  "full_text": "Games are some of the only softwares incentivized to run extremely fast:\n\n- educated public sensitive to perf\n- scrutiny from tech journalists\n- strong competition\n\nGamedevs HAVE to care. In many fields, almost no performance / revenue correlation, so it's an afterthought.",
+  "id": "1421579465289830400",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T17:01:05.631456",
+  "rt_of": "",
   "thread_parent_id": "1421577101438857223",
-  "username": "timsoret",
   "user_displayname": "Tim Soret",
   "user_pfp": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gKgSUNDX1BST0ZJTEUAAQEAAAKQbGNtcwQwAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwQVBQTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLWxjbXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtkZXNjAAABCAAAADhjcHJ0AAABQAAAAE53dHB0AAABkAAAABRjaGFkAAABpAAAACxyWFlaAAAB0AAAABRiWFlaAAAB5AAAABRnWFlaAAAB+AAAABRyVFJDAAACDAAAACBnVFJDAAACLAAAACBiVFJDAAACTAAAACBjaHJtAAACbAAAACRtbHVjAAAAAAAAAAEAAAAMZW5VUwAAABwAAAAcAHMAUgBHAEIAIABiAHUAaQBsAHQALQBpAG4AAG1sdWMAAAAAAAAAAQAAAAxlblVTAAAAMgAAABwATgBvACAAYwBvAHAAeQByAGkAZwBoAHQALAAgAHUAcwBlACAAZgByAGUAZQBsAHkAAAAAWFlaIAAAAAAAAPbWAAEAAAAA0y1zZjMyAAAAAAABDEoAAAXj///zKgAAB5sAAP2H///7ov///aMAAAPYAADAlFhZWiAAAAAAAABvlAAAOO4AAAOQWFlaIAAAAAAAACSdAAAPgwAAtr5YWVogAAAAAAAAYqUAALeQAAAY3nBhcmEAAAAAAAMAAAACZmYAAPKnAAANWQAAE9AAAApbcGFyYQAAAAAAAwAAAAJmZgAA8qcAAA1ZAAAT0AAACltwYXJhAAAAAAADAAAAAmZmAADypwAADVkAABPQAAAKW2Nocm0AAAAAAAMAAAAAo9cAAFR7AABMzQAAmZoAACZmAAAPXP/bAEMABQMEBAQDBQQEBAUFBQYHDAgHBwcHDwsLCQwRDxISEQ8RERMWHBcTFBoVEREYIRgaHR0fHx8TFyIkIh4kHB4fHv/bAEMBBQUFBwYHDggIDh4UERQeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHv/CABEIADAAMAMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAEBQIDAAEGB//EABgBAAMBAQAAAAAAAAAAAAAAAAABAwUE/9oADAMBAAIQAxAAAAHySFuk5tKT5VVwI2C2dRNZPKwoRud0qbOLR58sNzoZZnMMk6DrleM//8QAHxAAAgICAgMBAAAAAAAAAAAAAQIAAwQFERIQEyIj/9oACAEBAAEFAiPCjmIhUZI+67eoMExa+z5fZFRRaz4GSqxZrDWjbm7vl6pf0e0lFUxx0OLU7LZ+hxWCK93yJfUSlhFOoDcRbuJ7xBK7C1G1u9l3n//EABoRAAMBAQEBAAAAAAAAAAAAAAABAhEDISL/2gAIAQMBAT8BJnzRTb+pQka3OENc+KRyW6XXvgutH//EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDIRITMf/aAAgBAgEBPwEk90co+SGykp2STnlsyOjHHWzqR//EACMQAAEDBAEEAwAAAAAAAAAAAAEAAhEDECExEhMgMkEiUoH/2gAIAQEABj8CuCQpB2ovpFsaymBcyzBvLz7T+n4kAfikhEE4tx9o1c8WbXJBG1Op9mo4gvMAX1ag2PiCQhTb4U8dn//EACEQAQACAgICAgMAAAAAAAAAAAEAESExEEFRYXGhgZHh/9oACAEBAAE/IZBmaEBBjqEGxtEcO+AlBknqC6Sn6eYRHNZqCfAsxRhmkSkO4wD4f2NMwAGiIh7zQWC42pFujDLuoW7iAy9n4lxAo2/K/X3wEgTYiqVRKXHe4KPDT2983P/aAAwDAQACAAMAAAAQ3yHpsFmbx//EABoRAAMAAwEAAAAAAAAAAAAAAAABESExQWH/2gAIAQMBAT8QTpChUYng6Uw9CGsQqM1+MCa2f//EABkRAAMBAQEAAAAAAAAAAAAAAAABESFBMf/aAAgBAgEBPxB4XCMcaQ1I5OhkNHr60beH/8QAHxABAAMAAgMAAwAAAAAAAAAAAQARITFBUWGBcaHB/9oACAEBAAE/ENGpVSIhA3KTqtcL8L5/EMBUpG9vZRitO0JbY1O32l18gmrqrktVvBeSmJeEdwgAmuXrOpxjLGVvFCocUORgiZ+zBp9HCkaort1NcMgxoGTgUuiVLNZYVygLy5BzlcDgOiOiiBBNKwgoeIgagHypLhxy+A0R8RDrGU2mQqnRAvqF/tkhPb2QDHB+O1/PkuXsI//ZICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==",
-  "retrieved_date": "2022-04-19T17:01:05.631456"
+  "username": "timsoret"
 }

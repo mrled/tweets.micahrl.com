@@ -1,42 +1,45 @@
 {
-  "id": "1432726492958453761",
   "date": "2021-08-31T15:26:29+00:00",
   "date_original_format": "Tue Aug 31 15:26:29 +0000 2021",
-  "full_text": "@QuinnyPig We trust our users @QuinnyPig and thus expect a polite reminder will suffice.",
-  "full_html_strip_qts": "<a href=\"https://twitter.com/QuinnyPig\">@QuinnyPig</a> We trust our users <a href=\"https://twitter.com/QuinnyPig\">@QuinnyPig</a> and thus expect a polite reminder will suffice.",
-  "full_html_link_qts": "<a href=\"https://twitter.com/QuinnyPig\">@QuinnyPig</a> We trust our users <a href=\"https://twitter.com/QuinnyPig\">@QuinnyPig</a> and thus expect a polite reminder will suffice.",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
+    "urls": [],
     "user_mentions": [
       {
-        "screen_name": "QuinnyPig",
-        "name": "Corey Quinn",
         "id": 97114171,
         "id_str": "97114171",
         "indices": [
           0,
           10
-        ]
+        ],
+        "name": "Corey Quinn",
+        "screen_name": "QuinnyPig"
       },
       {
-        "screen_name": "QuinnyPig",
-        "name": "Corey Quinn",
         "id": 97114171,
         "id_str": "97114171",
         "indices": [
           30,
           40
-        ]
+        ],
+        "name": "Corey Quinn",
+        "screen_name": "QuinnyPig"
       }
-    ],
-    "urls": []
+    ]
   },
+  "full_html_link_qts": "<a href=\"https://twitter.com/QuinnyPig\">@QuinnyPig</a> We trust our users <a href=\"https://twitter.com/QuinnyPig\">@QuinnyPig</a> and thus expect a polite reminder will suffice.",
+  "full_html_strip_qts": "<a href=\"https://twitter.com/QuinnyPig\">@QuinnyPig</a> We trust our users <a href=\"https://twitter.com/QuinnyPig\">@QuinnyPig</a> and thus expect a polite reminder will suffice.",
+  "full_text": "@QuinnyPig We trust our users @QuinnyPig and thus expect a polite reminder will suffice.",
+  "id": "1432726492958453761",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T16:31:27.556067",
+  "rt_of": "",
   "thread_parent_id": "1432725161350877184",
-  "username": "scottcjohnston",
   "user_displayname": "Scott Johnston",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T16:31:27.556067"
+  "username": "scottcjohnston"
 }

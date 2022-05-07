@@ -1,21 +1,24 @@
 {
-  "id": "1446131737738760192",
   "date": "2021-10-07T15:14:08+00:00",
   "date_original_format": "Thu Oct 07 15:14:08 +0000 2021",
-  "full_text": "Just noticed Scribd bought Slideshare.\n\nand are now charging people $9.99 per month to download stuff we've all uploaded to them for free.\n\nNot shocked, nor complaining, but a useful reminder of the ways ownership words in the digital age when using sites for free.",
-  "full_html_strip_qts": "Just noticed Scribd bought Slideshare.<br/><br/>and are now charging people $9.99 per month to download stuff we've all uploaded to them for free.<br/><br/>Not shocked, nor complaining, but a useful reminder of the ways ownership words in the digital age when using sites for free.",
-  "full_html_link_qts": "Just noticed Scribd bought Slideshare.<br/><br/>and are now charging people $9.99 per month to download stuff we've all uploaded to them for free.<br/><br/>Not shocked, nor complaining, but a useful reminder of the ways ownership words in the digital age when using sites for free.",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
-    "urls": []
+    "urls": [],
+    "user_mentions": []
   },
+  "full_html_link_qts": "Just noticed Scribd bought Slideshare.<br/><br/>and are now charging people $9.99 per month to download stuff we've all uploaded to them for free.<br/><br/>Not shocked, nor complaining, but a useful reminder of the ways ownership words in the digital age when using sites for free.",
+  "full_html_strip_qts": "Just noticed Scribd bought Slideshare.<br/><br/>and are now charging people $9.99 per month to download stuff we've all uploaded to them for free.<br/><br/>Not shocked, nor complaining, but a useful reminder of the ways ownership words in the digital age when using sites for free.",
+  "full_text": "Just noticed Scribd bought Slideshare.\n\nand are now charging people $9.99 per month to download stuff we've all uploaded to them for free.\n\nNot shocked, nor complaining, but a useful reminder of the ways ownership words in the digital age when using sites for free.",
+  "id": "1446131737738760192",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T16:31:06.360645",
+  "rt_of": "",
   "thread_parent_id": null,
-  "username": "tomfgoodwin",
   "user_displayname": "Tom Goodwin",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T16:31:06.360645"
+  "username": "tomfgoodwin"
 }

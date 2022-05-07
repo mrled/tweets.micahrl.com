@@ -1,21 +1,24 @@
 {
-  "id": "1437892629820174338",
   "date": "2021-09-14T21:34:52+00:00",
   "date_original_format": "Tue Sep 14 21:34:52 +0000 2021",
-  "full_text": "Indeed, early results from the Together Trial, a massive-scale rigorous study on early treatment protocols, show lackluster efficacy for ivermectin but considerable improvement in patients given fluvoxamine. Hope lives on for an effective early treatment for COVID!",
-  "full_html_strip_qts": "Indeed, early results from the Together Trial, a massive-scale rigorous study on early treatment protocols, show lackluster efficacy for ivermectin but considerable improvement in patients given fluvoxamine. Hope lives on for an effective early treatment for COVID!",
-  "full_html_link_qts": "Indeed, early results from the Together Trial, a massive-scale rigorous study on early treatment protocols, show lackluster efficacy for ivermectin but considerable improvement in patients given fluvoxamine. Hope lives on for an effective early treatment for COVID!",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
-    "urls": []
+    "urls": [],
+    "user_mentions": []
   },
+  "full_html_link_qts": "Indeed, early results from the Together Trial, a massive-scale rigorous study on early treatment protocols, show lackluster efficacy for ivermectin but considerable improvement in patients given fluvoxamine. Hope lives on for an effective early treatment for COVID!",
+  "full_html_strip_qts": "Indeed, early results from the Together Trial, a massive-scale rigorous study on early treatment protocols, show lackluster efficacy for ivermectin but considerable improvement in patients given fluvoxamine. Hope lives on for an effective early treatment for COVID!",
+  "full_text": "Indeed, early results from the Together Trial, a massive-scale rigorous study on early treatment protocols, show lackluster efficacy for ivermectin but considerable improvement in patients given fluvoxamine. Hope lives on for an effective early treatment for COVID!",
+  "id": "1437892629820174338",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T16:31:21.521300",
+  "rt_of": "",
   "thread_parent_id": "1437892425263955969",
-  "username": "webdevMason",
   "user_displayname": "Mason \ud83c\udfc3\u200d\u2642\ufe0f\u2702\ufe0f\ud800\udccf",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T16:31:21.521300"
+  "username": "webdevMason"
 }

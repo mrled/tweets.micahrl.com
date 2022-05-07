@@ -1,21 +1,24 @@
 {
-  "id": "1495947703020306432",
   "date": "2022-02-22T02:25:00+00:00",
   "date_original_format": "Tue Feb 22 02:25:00 +0000 2022",
-  "full_text": "One of the biggest culture shocks for me is when I am out in the world and realize that asking someone \u201chow do you know that?\u201d after they make a claim is widely considered offensive. This makes me pretty sad.",
-  "full_html_strip_qts": "One of the biggest culture shocks for me is when I am out in the world and realize that asking someone \u201chow do you know that?\u201d after they make a claim is widely considered offensive. This makes me pretty sad.",
-  "full_html_link_qts": "One of the biggest culture shocks for me is when I am out in the world and realize that asking someone \u201chow do you know that?\u201d after they make a claim is widely considered offensive. This makes me pretty sad.",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [],
-    "urls": []
+    "urls": [],
+    "user_mentions": []
   },
+  "full_html_link_qts": "One of the biggest culture shocks for me is when I am out in the world and realize that asking someone \u201chow do you know that?\u201d after they make a claim is widely considered offensive. This makes me pretty sad.",
+  "full_html_strip_qts": "One of the biggest culture shocks for me is when I am out in the world and realize that asking someone \u201chow do you know that?\u201d after they make a claim is widely considered offensive. This makes me pretty sad.",
+  "full_text": "One of the biggest culture shocks for me is when I am out in the world and realize that asking someone \u201chow do you know that?\u201d after they make a claim is widely considered offensive. This makes me pretty sad.",
+  "id": "1495947703020306432",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T16:30:25.492306",
+  "rt_of": "",
   "thread_parent_id": null,
-  "username": "RatOrthodox",
   "user_displayname": "Ronny Fernandez",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T16:30:25.492306"
+  "username": "RatOrthodox"
 }

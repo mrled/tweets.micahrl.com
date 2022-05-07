@@ -1,42 +1,45 @@
 {
-  "id": "1384109576522395657",
   "date": "2021-04-19T11:40:13+00:00",
   "date_original_format": "Mon Apr 19 11:40:13 +0000 2021",
-  "full_text": "\u270d\ufe0f New interactive blog post \u2728\n\nHow those \"hashvatars\" are made, using SVG, HSL colors, and a bit of maths.\n\nh/t to @wzulfikar for the name\n\nhttps://t.co/XdlardEFh4",
-  "full_html_strip_qts": "\u270d\ufe0f New interactive blog post \u2728<br/><br/>How those \"hashvatars\" are made, using SVG, HSL colors, and a bit of maths.<br/><br/>h/t to <a href=\"https://twitter.com/wzulfikar\">@wzulfikar</a> for the name<br/><br/><a href=\"https://francoisbest.com/posts/2021/hashvatars?demo=Hello,%20Twitter%21\">francoisbest.com/posts/2021/has\u2026</a>",
-  "full_html_link_qts": "\u270d\ufe0f New interactive blog post \u2728<br/><br/>How those \"hashvatars\" are made, using SVG, HSL colors, and a bit of maths.<br/><br/>h/t to <a href=\"https://twitter.com/wzulfikar\">@wzulfikar</a> for the name<br/><br/><a href=\"https://francoisbest.com/posts/2021/hashvatars?demo=Hello,%20Twitter%21\">francoisbest.com/posts/2021/has\u2026</a>",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
+    "urls": [
+      {
+        "display_url": "francoisbest.com/posts/2021/has\u2026",
+        "expanded_url": "https://francoisbest.com/posts/2021/hashvatars?demo=Hello,%20Twitter%21",
+        "indices": [
+          141,
+          164
+        ],
+        "url": "https://t.co/XdlardEFh4"
+      }
+    ],
     "user_mentions": [
       {
-        "screen_name": "wzulfikar",
-        "name": "Wildan Zulfikar",
         "id": 361413927,
         "id_str": "361413927",
         "indices": [
           116,
           126
-        ]
-      }
-    ],
-    "urls": [
-      {
-        "url": "https://t.co/XdlardEFh4",
-        "expanded_url": "https://francoisbest.com/posts/2021/hashvatars?demo=Hello,%20Twitter%21",
-        "display_url": "francoisbest.com/posts/2021/has\u2026",
-        "indices": [
-          141,
-          164
-        ]
+        ],
+        "name": "Wildan Zulfikar",
+        "screen_name": "wzulfikar"
       }
     ]
   },
+  "full_html_link_qts": "\u270d\ufe0f New interactive blog post \u2728<br/><br/>How those \"hashvatars\" are made, using SVG, HSL colors, and a bit of maths.<br/><br/>h/t to <a href=\"https://twitter.com/wzulfikar\">@wzulfikar</a> for the name<br/><br/><a href=\"https://francoisbest.com/posts/2021/hashvatars?demo=Hello,%20Twitter%21\">francoisbest.com/posts/2021/has\u2026</a>",
+  "full_html_strip_qts": "\u270d\ufe0f New interactive blog post \u2728<br/><br/>How those \"hashvatars\" are made, using SVG, HSL colors, and a bit of maths.<br/><br/>h/t to <a href=\"https://twitter.com/wzulfikar\">@wzulfikar</a> for the name<br/><br/><a href=\"https://francoisbest.com/posts/2021/hashvatars?demo=Hello,%20Twitter%21\">francoisbest.com/posts/2021/has\u2026</a>",
+  "full_text": "\u270d\ufe0f New interactive blog post \u2728\n\nHow those \"hashvatars\" are made, using SVG, HSL colors, and a bit of maths.\n\nh/t to @wzulfikar for the name\n\nhttps://t.co/XdlardEFh4",
+  "id": "1384109576522395657",
+  "media": [],
   "qts": [],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T17:11:50.934087",
+  "rt_of": "",
   "thread_parent_id": null,
-  "username": "fortysevenfx",
   "user_displayname": "Fran\u00e7ois Best \ud83d\udee0\ufe0f",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T17:11:50.934087"
+  "username": "fortysevenfx"
 }

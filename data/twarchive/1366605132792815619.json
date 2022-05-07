@@ -1,53 +1,56 @@
 {
-  "id": "1366605132792815619",
   "date": "2021-03-02T04:23:48+00:00",
   "date_original_format": "Tue Mar 02 04:23:48 +0000 2021",
-  "full_text": "I followed a guide from @econoalchemist for doing this with bitcoin seed phrases. The guide is handily available in your choice of blog post or tweetstorm format.\n\nhttps://t.co/1bJgbn8B2H\n\nhttps://t.co/2QeACtdp1q",
-  "full_html_strip_qts": "I followed a guide from <a href=\"https://twitter.com/econoalchemist\">@econoalchemist</a> for doing this with bitcoin seed phrases. The guide is handily available in your choice of blog post or tweetstorm format.<br/><br/><a href=\"https://www.econoalchemist.com/post/backup\">econoalchemist.com/post/backup</a><br/><br/>",
-  "full_html_link_qts": "I followed a guide from <a href=\"https://twitter.com/econoalchemist\">@econoalchemist</a> for doing this with bitcoin seed phrases. The guide is handily available in your choice of blog post or tweetstorm format.<br/><br/><a href=\"https://www.econoalchemist.com/post/backup\">econoalchemist.com/post/backup</a><br/><br/><a href=\"https://twitter.com/econoalchemist/status/1329271620075077633?s=20\">twitter.com/econoalchemist\u2026</a>",
-  "media": [],
   "entities": {
     "hashtags": [],
     "symbols": [],
+    "urls": [
+      {
+        "display_url": "econoalchemist.com/post/backup",
+        "expanded_url": "https://www.econoalchemist.com/post/backup",
+        "indices": [
+          164,
+          187
+        ],
+        "url": "https://t.co/1bJgbn8B2H"
+      },
+      {
+        "display_url": "twitter.com/econoalchemist\u2026",
+        "expanded_url": "https://twitter.com/econoalchemist/status/1329271620075077633?s=20",
+        "indices": [
+          189,
+          212
+        ],
+        "url": "https://t.co/2QeACtdp1q"
+      }
+    ],
     "user_mentions": [
       {
-        "screen_name": "econoalchemist",
-        "name": "burn the bridge",
         "id": 1079590331513884672,
         "id_str": "1079590331513884672",
         "indices": [
           24,
           39
-        ]
-      }
-    ],
-    "urls": [
-      {
-        "url": "https://t.co/1bJgbn8B2H",
-        "expanded_url": "https://www.econoalchemist.com/post/backup",
-        "display_url": "econoalchemist.com/post/backup",
-        "indices": [
-          164,
-          187
-        ]
-      },
-      {
-        "url": "https://t.co/2QeACtdp1q",
-        "expanded_url": "https://twitter.com/econoalchemist/status/1329271620075077633?s=20",
-        "display_url": "twitter.com/econoalchemist\u2026",
-        "indices": [
-          189,
-          212
-        ]
+        ],
+        "name": "burn the bridge",
+        "screen_name": "econoalchemist"
       }
     ]
   },
+  "full_html_link_qts": "I followed a guide from <a href=\"https://twitter.com/econoalchemist\">@econoalchemist</a> for doing this with bitcoin seed phrases. The guide is handily available in your choice of blog post or tweetstorm format.<br/><br/><a href=\"https://www.econoalchemist.com/post/backup\">econoalchemist.com/post/backup</a><br/><br/><a href=\"https://twitter.com/econoalchemist/status/1329271620075077633?s=20\">twitter.com/econoalchemist\u2026</a>",
+  "full_html_strip_qts": "I followed a guide from <a href=\"https://twitter.com/econoalchemist\">@econoalchemist</a> for doing this with bitcoin seed phrases. The guide is handily available in your choice of blog post or tweetstorm format.<br/><br/><a href=\"https://www.econoalchemist.com/post/backup\">econoalchemist.com/post/backup</a><br/><br/>",
+  "full_text": "I followed a guide from @econoalchemist for doing this with bitcoin seed phrases. The guide is handily available in your choice of blog post or tweetstorm format.\n\nhttps://t.co/1bJgbn8B2H\n\nhttps://t.co/2QeACtdp1q",
+  "id": "1366605132792815619",
+  "media": [],
   "qts": [
     "1329271620075077633"
   ],
+  "replyto_tweetid": "",
+  "replyto_username": "",
+  "retrieved_date": "2022-04-19T17:12:10.216502",
+  "rt_of": "",
   "thread_parent_id": "1366605131970715649",
-  "username": "mrled",
   "user_displayname": "Micah R Ledbetter /m\u0279\u0329\u02c8led/",
   "user_pfp": "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",
-  "retrieved_date": "2022-04-19T17:12:10.216502"
+  "username": "mrled"
 }
