@@ -3,6 +3,7 @@
 public/
 resources/
 venv/
+.DS_Store
 
 # Sometimes I symlink the twarchive theme for local development
 themes/twarchive
