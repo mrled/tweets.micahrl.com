@@ -1,0 +1,45 @@
+{
+  "date": "2022-07-13T09:47:50+00:00",
+  "date_original_format": "Wed Jul 13 09:47:50 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "darkdot.com/about",
+        "expanded_url": "http://darkdot.com/about",
+        "indices": [
+          214,
+          237
+        ],
+        "url": "https://t.co/7FMqbLNLU3"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1055116699895324673,
+        "id_str": "1055116699895324673",
+        "indices": [
+          122,
+          134
+        ],
+        "name": "dark.fail",
+        "screen_name": "DarkDotFail"
+      }
+    ]
+  },
+  "full_html_link_qts": "Introducing Darkdot. We follow emerging privacy technologies and the consequences of their use.<br/><br/>We are a continuation of <a href=\"https://twitter.com/DarkDotFail\">@DarkDotFail</a>'s original reporting, at a larger scale. Stay tuned, there's a lot on its way. <a href=\"http://darkdot.com/about\">darkdot.com/about</a>",
+  "full_html_strip_qts": "Introducing Darkdot. We follow emerging privacy technologies and the consequences of their use.<br/><br/>We are a continuation of <a href=\"https://twitter.com/DarkDotFail\">@DarkDotFail</a>'s original reporting, at a larger scale. Stay tuned, there's a lot on its way. <a href=\"http://darkdot.com/about\">darkdot.com/about</a>",
+  "full_text": "Introducing Darkdot. We follow emerging privacy technologies and the consequences of their use.\n\nWe are a continuation of @DarkDotFail's original reporting, at a larger scale. Stay tuned, there's a lot on its way. https://t.co/7FMqbLNLU3",
+  "id": "1547155834664325121",
+  "media": [],
+  "qts": [],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2022-07-13T22:57:02.721144",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "Darkdot",
+  "user_pfp": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IURPQ1RZUEUgaHRtbCBQVUJMSUMgIi0vL1czQy8vRFREIFhIVE1MIDEuMCBUcmFuc2l0aW9uYWwvL0VOIgogICAgICAgICAiaHR0cDovL3d3dy53My5vcmcvVFIveGh0bWwxL0RURC94aHRtbDEtdHJhbnNpdGlvbmFsLmR0ZCI+CjxodG1sIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiB4bWw6bGFuZz0iZW4iIGxhbmc9ImVuIj4KCTxoZWFkPgoJCTx0aXRsZT40MDQgLSBOb3QgRm91bmQ8L3RpdGxlPgoJPC9oZWFkPgoJPGJvZHk+CgkJPGgxPjQwNCAtIE5vdCBGb3VuZDwvaDE+Cgk8L2JvZHk+CjwvaHRtbD4K",
+  "username": "darkdot_"
+}

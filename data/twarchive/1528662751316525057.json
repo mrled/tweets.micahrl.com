@@ -1,0 +1,52 @@
+{
+  "date": "2022-05-23T09:02:55+00:00",
+  "date_original_format": "Mon May 23 09:02:55 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "beeminder.com",
+        "expanded_url": "https://www.beeminder.com/",
+        "indices": [
+          32,
+          55
+        ],
+        "url": "https://t.co/o3uzK5mnSP"
+      },
+      {
+        "display_url": "apps.ankiweb.net",
+        "expanded_url": "https://apps.ankiweb.net/",
+        "indices": [
+          102,
+          125
+        ],
+        "url": "https://t.co/5AkGNaquXq"
+      },
+      {
+        "display_url": "obsidian.md",
+        "expanded_url": "https://obsidian.md/",
+        "indices": [
+          168,
+          191
+        ],
+        "url": "https://t.co/rVGN0rSgEV"
+      }
+    ],
+    "user_mentions": []
+  },
+  "full_html_link_qts": "currently going w/<br/><br/>- beeminder <a href=\"https://www.beeminder.com/\">beeminder.com</a> for commitment device / habit-building<br/>- anki <a href=\"https://apps.ankiweb.net/\">apps.ankiweb.net</a> for durable knowledge building<br/>- obsidian <a href=\"https://obsidian.md/\">obsidian.md</a> for everything else",
+  "full_html_strip_qts": "currently going w/<br/><br/>- beeminder <a href=\"https://www.beeminder.com/\">beeminder.com</a> for commitment device / habit-building<br/>- anki <a href=\"https://apps.ankiweb.net/\">apps.ankiweb.net</a> for durable knowledge building<br/>- obsidian <a href=\"https://obsidian.md/\">obsidian.md</a> for everything else",
+  "full_text": "currently going w/\n\n- beeminder https://t.co/o3uzK5mnSP for commitment device / habit-building\n- anki https://t.co/5AkGNaquXq for durable knowledge building\n- obsidian https://t.co/rVGN0rSgEV for everything else",
+  "id": "1528662751316525057",
+  "media": [],
+  "qts": [],
+  "replyto_tweetid": "1528662171948924930",
+  "replyto_username": "Virtual1nstinct",
+  "retrieved_date": "2022-07-13T22:57:49.002032",
+  "rt_of": null,
+  "thread_parent_id": "1528662171948924930",
+  "user_displayname": "\ud835\ude9f\ud835\ude92\ud835\ude9b\ud835\ude9d\ud835\ude9e\ud835\ude8a\ud835\ude95 \ud83e\udd0d \ud835\ude92\ud835\ude97\ud835\ude9c\ud835\ude9d\ud835\ude92\ud835\ude97\ud835\ude8c\ud835\ude9d",
+  "user_pfp": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gKgSUNDX1BST0ZJTEUAAQEAAAKQbGNtcwQwAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwQVBQTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLWxjbXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtkZXNjAAABCAAAADhjcHJ0AAABQAAAAE53dHB0AAABkAAAABRjaGFkAAABpAAAACxyWFlaAAAB0AAAABRiWFlaAAAB5AAAABRnWFlaAAAB+AAAABRyVFJDAAACDAAAACBnVFJDAAACLAAAACBiVFJDAAACTAAAACBjaHJtAAACbAAAACRtbHVjAAAAAAAAAAEAAAAMZW5VUwAAABwAAAAcAHMAUgBHAEIAIABiAHUAaQBsAHQALQBpAG4AAG1sdWMAAAAAAAAAAQAAAAxlblVTAAAAMgAAABwATgBvACAAYwBvAHAAeQByAGkAZwBoAHQALAAgAHUAcwBlACAAZgByAGUAZQBsAHkAAAAAWFlaIAAAAAAAAPbWAAEAAAAA0y1zZjMyAAAAAAABDEoAAAXj///zKgAAB5sAAP2H///7ov///aMAAAPYAADAlFhZWiAAAAAAAABvlAAAOO4AAAOQWFlaIAAAAAAAACSdAAAPgwAAtr5YWVogAAAAAAAAYqUAALeQAAAY3nBhcmEAAAAAAAMAAAACZmYAAPKnAAANWQAAE9AAAApbcGFyYQAAAAAAAwAAAAJmZgAA8qcAAA1ZAAAT0AAACltwYXJhAAAAAAADAAAAAmZmAADypwAADVkAABPQAAAKW2Nocm0AAAAAAAMAAAAAo9cAAFR7AABMzQAAmZoAACZmAAAPXP/bAEMABQMEBAQDBQQEBAUFBQYHDAgHBwcHDwsLCQwRDxISEQ8RERMWHBcTFBoVEREYIRgaHR0fHx8TFyIkIh4kHB4fHv/bAEMBBQUFBwYHDggIDh4UERQeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHv/CABEIADAAMAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBQIEBgAB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwUGBAH/2gAMAwEAAhADEAAAAeLDnKujFTBU32EOOzUVk7PLh1NBn8k6srnKaGqlUri2WQt6pbPuUokLgROf/8QAIRAAAgICAgIDAQAAAAAAAAAAAgMBBAARBRIxMhATISL/2gAIAQEAAQUCD1yzaFZVrQMLJ8B4eXRSSE5smMQgu6j9Azlm6Vxa4crlxhCuHb2rb/kzFYWN2mcd3rRf7W8So6pLPsAwxrAVuIRrAQMYX14wCWxKoGNfo4Xwfj//xAAfEQABBAIDAQEAAAAAAAAAAAAAAQIDBBESEyEiFUH/2gAIAQMBAT8BPmt4ds9idFaF0j0whq7i1/S1XfBJ6QrVIoG6ohj0WKsczMPQ/8QAHxEAAQUAAQUAAAAAAAAAAAAAAQACAwQREhMVISNB/9oACAECAQE/AV3E9XjnhFWJRGwkrfdvxVpmzR6CrNt8ztKLyq874X60r//EACMQAAEDAwQCAwAAAAAAAAAAAAEAAhESITEQIlFhIEEycZH/2gAIAQEABj8C0pGVSdp78C5EkS92Twhth7TY8pp6R0oCJY0Ei0OKbUxtTpFjhUn0iqnFbMBfGR7QDm0gY5UzZSDNlUR9AqHtZ+La8jpbnFRQ0hS2ADkeB1//xAAgEAEAAgICAgMBAAAAAAAAAAABABEhMUFhUYEQcZHR/9oACAEBAAE/ISA+pRtlGLpxMoE0cpVagzxww4wGdEthm10YSGlmhDP5imDxBoNSoTcqg2qg/kpAmgyaZgWGXUoj1MLBU3cA5h2bNis30woizDf8SwMm+oK5DYhI6DzCZwPBjUpPs2GGWzqCvvEK3hQFCfBGBFy1AFBxGVXP/9oADAMBAAIAAwAAABB2eufJgh1//8QAGhEBAQEBAAMAAAAAAAAAAAAAAQARITFhcf/aAAgBAwEBPxAFYbRc76+QVGW1pz8cmJhvSGyycSzZf//EABsRAQACAwEBAAAAAAAAAAAAAAEAESExUWFx/9oACAECAQE/EFIhXvr37MiJRXJczb9g+8mGK3jSrhKsz//EACEQAQACAgIDAQADAAAAAAAAAAEAESExQWFRcYGhkbHR/9oACAEBAAE/EHOhQWvqOqovmHtyIbajEnsCq9MK1ojl9y91jgxKjXFCnyawxT/JeglNsOKOaJVkZW0drfPUyjBOHyQ4AaV/wwAoYBl3F3ZSWQUARSreVdQYwgEFFnLr9mwEE/SILTmj8jIY4HmOhVItlfMbhf6pirwJ0y46kM+KzWB1uFrGvenD33A+BPYkLOKhQeU5gCaMgfglQ6MO84uzJiZpnYaPV7gvnS/7g9hMiTdGnuG1Bepm8F1KwYEtTUbtg4eY23qGyLouf//ZICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+  "username": "Virtual1nstinct"
+}

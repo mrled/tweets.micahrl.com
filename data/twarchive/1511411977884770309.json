@@ -1,0 +1,69 @@
+{
+  "date": "2022-04-05T18:34:30+00:00",
+  "date_original_format": "Tue Apr 05 18:34:30 +0000 2022",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          226,
+          236
+        ],
+        "text": "maelstrom"
+      },
+      {
+        "indices": [
+          237,
+          246
+        ],
+        "text": "ambrosia"
+      },
+      {
+        "indices": [
+          247,
+          253
+        ],
+        "text": "macOS"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/mihai/status/1\u2026",
+        "expanded_url": "https://twitter.com/mihai/status/1509718311403241474",
+        "indices": [
+          254,
+          277
+        ],
+        "url": "https://t.co/LGNbl6MEUs"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 28203,
+        "id_str": "28203",
+        "indices": [
+          48,
+          54
+        ],
+        "name": "Mihai Parparita",
+        "screen_name": "mihai"
+      }
+    ]
+  },
+  "full_html_link_qts": "This awesome in-browser MacOS 7/8 emulator from <a href=\"https://twitter.com/mihai\">@mihai</a> comes bundled with my old Maelstrom game! Here's a Maelstrom license code for anyone who wants it:<br/><br/>Licensee Name: Hector D Byrd<br/>No. of Copies: 1<br/>License Code:  EAEAPLED<br/><br/><a href=\"https://twitter.com/hashtag/maelstrom\">#maelstrom</a> <a href=\"https://twitter.com/hashtag/ambrosia\">#ambrosia</a> <a href=\"https://twitter.com/hashtag/macOS\">#macOS</a> <a href=\"https://twitter.com/mihai/status/1509718311403241474\">twitter.com/mihai/status/1\u2026</a>",
+  "full_html_strip_qts": "This awesome in-browser MacOS 7/8 emulator from <a href=\"https://twitter.com/mihai\">@mihai</a> comes bundled with my old Maelstrom game! Here's a Maelstrom license code for anyone who wants it:<br/><br/>Licensee Name: Hector D Byrd<br/>No. of Copies: 1<br/>License Code:  EAEAPLED<br/><br/><a href=\"https://twitter.com/hashtag/maelstrom\">#maelstrom</a> <a href=\"https://twitter.com/hashtag/ambrosia\">#ambrosia</a> <a href=\"https://twitter.com/hashtag/macOS\">#macOS</a> ",
+  "full_text": "This awesome in-browser MacOS 7/8 emulator from @mihai comes bundled with my old Maelstrom game! Here's a Maelstrom license code for anyone who wants it:\n\nLicensee Name: Hector D Byrd\nNo. of Copies: 1\nLicense Code:  EAEAPLED\n\n#maelstrom #ambrosia #macOS https://t.co/LGNbl6MEUs",
+  "id": "1511411977884770309",
+  "media": [],
+  "qts": [
+    "1509718311403241474"
+  ],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2022-07-13T22:57:50.270822",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "Andrew Welch",
+  "user_pfp": "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",
+  "username": "gaijinity"
+}

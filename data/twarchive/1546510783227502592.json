@@ -1,0 +1,45 @@
+{
+  "date": "2022-07-11T15:04:38+00:00",
+  "date_original_format": "Mon Jul 11 15:04:38 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "autoregex.xyz",
+        "expanded_url": "https://www.autoregex.xyz/",
+        "indices": [
+          30,
+          53
+        ],
+        "url": "https://t.co/QFL1H0tueo"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 35010911,
+        "id_str": "35010911",
+        "indices": [
+          55,
+          61
+        ],
+        "name": "Micah R Ledbetter /m\u0279\u0329\u02c8led/",
+        "screen_name": "mrled"
+      }
+    ]
+  },
+  "full_html_link_qts": "What an awesome use of GPT-3:<br/><a href=\"https://www.autoregex.xyz/\">autoregex.xyz</a><br/><br/><a href=\"https://twitter.com/mrled\">@mrled</a>",
+  "full_html_strip_qts": "What an awesome use of GPT-3:<br/><a href=\"https://www.autoregex.xyz/\">autoregex.xyz</a><br/><br/><a href=\"https://twitter.com/mrled\">@mrled</a>",
+  "full_text": "What an awesome use of GPT-3:\nhttps://t.co/QFL1H0tueo\n\n@mrled",
+  "id": "1546510783227502592",
+  "media": [],
+  "qts": [],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2022-07-13T22:57:05.274284",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "Rafferty McDonald",
+  "user_pfp": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAwADADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABgcCBQEDBAj/xAAxEAABAwMBBQYFBQEAAAAAAAABAgMEAAURBhITMUFhByEyUXGxFCJCgaEjM2KR0fH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAdEQADAQEAAwEBAAAAAAAAAAAAAQIREgMhURMi/9oADAMBAAIRAxEAPwB/1FxxDSFLWoJSkZJPKpUJ64muNRI8ZpZTvF7S8cwOX9+1Y3i01LXhdLvcRCsHeHqE1gX2IpwIAdyf40ER5K5UJKgf1WiArqPOrqC1tOF1XBPcKj+jK8ILkLS4gKQcg1Kq22OkqcbPDiKsqrNdLSVLHgPaz1Q1pPT7s9Te+kKIbjs5/ccPAeg4noKWltuF0uNuclXqQXZrjxUU8m0kDZSByHSirtFiGXcrVtjLTSXFJHLaJA9qVWqbhPsF9TMZGYz7SUqQrwqKeXQ9aFPXyOfS0MGpbzCi6ytSFII7+RHAijuCsGC2oHJPiPWkOxreHKdSH3lx0A5KVpJGfUUbwe0ixQ4myJTkhfJtps9/3OAKDhjVIPrlPTbYHxG+LKt4hCFA4ypSsAdc54VcafvaLzEcKk7uQyrYdR7EdD/tJqPdLnrrVMDaZ3dthvB5bIOUpA4FR5qJwB/2mVppotalklPgXH+b1Chj3NbOzSkNf0tLrUVpN0gjdAF9o7SAefmKW9ws7c5pyLMYC08FtOJ7x9uINOCuaVboc0D4mO24RwUR3j0PGncde0Gbz0eeZHZRb33CuNNkRgfoUAsD0J767bb2W26ItLkudJfA+hOEA/cZNOlWmbeT8u+SPIOZ981sb07b0eJC3B5LWcfijz5Pouo+AfaYzUVpMO3RQhA4IbH5J5+poys9r+AbW45gvu42schyFdzEZiMjYYaQ2nySMVtpR4+XrDV6sR//2SAgICAgICAgICAgICAgICAg",
+  "username": "thecodinghatter"
+}

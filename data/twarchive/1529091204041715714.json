@@ -1,0 +1,73 @@
+{
+  "date": "2022-05-24T13:25:26+00:00",
+  "date_original_format": "Tue May 24 13:25:26 +0000 2022",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          74,
+          80
+        ],
+        "text": "wef22"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/broadcasts/1\u2026",
+        "expanded_url": "https://twitter.com/i/broadcasts/1LyxBoAbEwyKN",
+        "indices": [
+          81,
+          104
+        ],
+        "url": "https://t.co/Yy6c62IG1O"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 20571756,
+        "id_str": "20571756",
+        "indices": [
+          20,
+          33
+        ],
+        "name": "Satya Nadella",
+        "screen_name": "satyanadella"
+      },
+      {
+        "id": 74286565,
+        "id_str": "74286565",
+        "indices": [
+          42,
+          52
+        ],
+        "name": "Microsoft",
+        "screen_name": "Microsoft"
+      },
+      {
+        "id": 1329019426365169664,
+        "id_str": "1329019426365169664",
+        "indices": [
+          57,
+          73
+        ],
+        "name": "Klaus Schwab",
+        "screen_name": "ProfKlausSchwab"
+      }
+    ]
+  },
+  "full_html_link_qts": "A Conversation with <a href=\"https://twitter.com/satyanadella\">@satyanadella</a>, CEO of <a href=\"https://twitter.com/Microsoft\">@Microsoft</a> and <a href=\"https://twitter.com/ProfKlausSchwab\">@ProfKlausSchwab</a> <a href=\"https://twitter.com/hashtag/wef22\">#wef22</a> <a href=\"https://twitter.com/i/broadcasts/1LyxBoAbEwyKN\">twitter.com/i/broadcasts/1\u2026</a>",
+  "full_html_strip_qts": "A Conversation with <a href=\"https://twitter.com/satyanadella\">@satyanadella</a>, CEO of <a href=\"https://twitter.com/Microsoft\">@Microsoft</a> and <a href=\"https://twitter.com/ProfKlausSchwab\">@ProfKlausSchwab</a> <a href=\"https://twitter.com/hashtag/wef22\">#wef22</a> <a href=\"https://twitter.com/i/broadcasts/1LyxBoAbEwyKN\">twitter.com/i/broadcasts/1\u2026</a>",
+  "full_text": "A Conversation with @satyanadella, CEO of @Microsoft and @ProfKlausSchwab #wef22 https://t.co/Yy6c62IG1O",
+  "id": "1529091204041715714",
+  "media": [],
+  "qts": [],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2022-07-13T22:57:45.146490",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "World Economic Forum",
+  "user_pfp": "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",
+  "username": "wef"
+}

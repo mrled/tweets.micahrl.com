@@ -1,0 +1,53 @@
+{
+  "date": "2022-06-10T17:35:32+00:00",
+  "date_original_format": "Fri Jun 10 17:35:32 +0000 2022",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          88,
+          93
+        ],
+        "text": "web5"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "developer.tbd.website/projects/web5/",
+        "expanded_url": "https://developer.tbd.website/projects/web5/",
+        "indices": [
+          113,
+          136
+        ],
+        "url": "https://t.co/vYlVqDyGE3"
+      },
+      {
+        "display_url": "twitter.com/TBD54566975/st\u2026",
+        "expanded_url": "https://twitter.com/TBD54566975/status/1535303403361824768",
+        "indices": [
+          137,
+          160
+        ],
+        "url": "https://t.co/eP2cAoaRTH"
+      }
+    ],
+    "user_mentions": []
+  },
+  "full_html_link_qts": "this will likely be our most important contribution to the internet. proud of the team. <a href=\"https://twitter.com/hashtag/web5\">#web5</a><br/><br/>(RIP web3 VCs \ud83e\udd2b)<br/><br/><a href=\"https://developer.tbd.website/projects/web5/\">developer.tbd.website/projects/web5/</a> <a href=\"https://twitter.com/TBD54566975/status/1535303403361824768\">twitter.com/TBD54566975/st\u2026</a>",
+  "full_html_strip_qts": "this will likely be our most important contribution to the internet. proud of the team. <a href=\"https://twitter.com/hashtag/web5\">#web5</a><br/><br/>(RIP web3 VCs \ud83e\udd2b)<br/><br/><a href=\"https://developer.tbd.website/projects/web5/\">developer.tbd.website/projects/web5/</a> ",
+  "full_text": "this will likely be our most important contribution to the internet. proud of the team. #web5\n\n(RIP web3 VCs \ud83e\udd2b)\n\nhttps://t.co/vYlVqDyGE3 https://t.co/eP2cAoaRTH",
+  "id": "1535314738078486533",
+  "media": [],
+  "qts": [
+    "1535303403361824768"
+  ],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2022-07-13T22:57:24.779980",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "jack",
+  "user_pfp": "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",
+  "username": "jack"
+}
