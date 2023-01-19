@@ -1,5 +1,0 @@
-## Production site configuration
-# Used for `hugo`, or with `--environment production`
-
-theme:
-- github.com/mrled/twarchive

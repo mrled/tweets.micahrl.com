@@ -1,6 +1,6 @@
-github.com/mrled/twarchive v0.0.0-20220419214902-bb4e484c6bca h1:IsQvjOY4OOC+Ad2kPTDpyzyH+bkOrbarZMZ2cTmVpi0=
-github.com/mrled/twarchive v0.0.0-20220419214902-bb4e484c6bca/go.mod h1:NVogEMusU3YmXD17yopShHIKEI8i1/M4w3gNljfazAo=
-github.com/mrled/twarchive v0.0.0-20220420020134-60a501cd2df4 h1:w7XU/mWmulwFCDOJ79i2z+a6PCW//OaPPg4bt2NSU4M=
-github.com/mrled/twarchive v0.0.0-20220420020134-60a501cd2df4/go.mod h1:NVogEMusU3YmXD17yopShHIKEI8i1/M4w3gNljfazAo=
-github.com/mrled/twarchive v0.0.0-20220424032240-f14441020a03 h1:6qoR/X9PJCgV01y4oz8I7OCpqeAfqPBvtM65g5c4gTA=
-github.com/mrled/twarchive v0.0.0-20220424032240-f14441020a03/go.mod h1:NVogEMusU3YmXD17yopShHIKEI8i1/M4w3gNljfazAo=
+github.com/mrled/twarchive v0.0.0-20230119053410-fb51e1c1e5e3 h1:9FPspUII5kIv3Y9Gan1qDJ+ujEulbXsABOLwq2LYjK4=
+github.com/mrled/twarchive v0.0.0-20230119053410-fb51e1c1e5e3/go.mod h1:NVogEMusU3YmXD17yopShHIKEI8i1/M4w3gNljfazAo=
+github.com/mrled/twarchive/aviary v0.0.0-20230119053410-fb51e1c1e5e3 h1:cPUGYZ6T7Rz2edgr9FAiDativB3ucGxFLMadNHCWRmI=
+github.com/mrled/twarchive/aviary v0.0.0-20230119053410-fb51e1c1e5e3/go.mod h1:u5USz/8IhHJ+j0dA8S67OXSEIQPIvLM8tLgxA53Wovc=
+github.com/mrled/twarchive/ornithography v0.0.0-20230119053410-fb51e1c1e5e3 h1:P9XtrVM+y5xWm7aSvkcdeUDxiFYKSGozGpzsMu0P2vA=
+github.com/mrled/twarchive/ornithography v0.0.0-20230119053410-fb51e1c1e5e3/go.mod h1:8i/Kh6omO0izBtHfN09Kpf8JtKxK+k48y81Ffqk2Cq0=

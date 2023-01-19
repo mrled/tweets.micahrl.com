@@ -5,14 +5,13 @@ languageCode: en-us
 title: Micah R Ledbetter Tweet Archive
 
 theme:
-- github.com/mrled/twarchive
+- github.com/mrled/twarchive/aviary
+- github.com/mrled/twarchive/ornithography
 
 mediaTypes:
   text/netlify:
     delimiter: ""
     suffixes: [""]
-  text/formulalist:
-    suffixes: ["formulae.txt"]
   text/html+tweet:
     suffixes: ["tweet.html"]
 
