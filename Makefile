@@ -30,7 +30,7 @@ production: ## Build the site in the public/ directory
 		--printPathWarnings \
 		$(NETLIFY_BASEURL_ARG)
 
-venv:
+venv: ## Create the virtual environment
 	python3 -m venv venv
 	venv/bin/pip install --upgrade pip
 	venv/bin/pip install --upgrade twarchive
