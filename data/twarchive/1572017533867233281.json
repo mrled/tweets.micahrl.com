@@ -1,0 +1,35 @@
+{
+  "date": "2022-09-20T00:19:21+00:00",
+  "date_original_format": "Tue Sep 20 00:19:21 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 35010911,
+        "id_str": "35010911",
+        "indices": [
+          0,
+          6
+        ],
+        "name": "Micah R Ledbetter /m\u0279\u0329\u02c8led/",
+        "screen_name": "mrled"
+      }
+    ]
+  },
+  "full_html_link_qts": "<a href=\"https://twitter.com/mrled\">@mrled</a> You know I've never had a problem on Windows or WSL2... \ud83e\uddcc\ud83d\ude01",
+  "full_html_strip_qts": "<a href=\"https://twitter.com/mrled\">@mrled</a> You know I've never had a problem on Windows or WSL2... \ud83e\uddcc\ud83d\ude01",
+  "full_text": "@mrled You know I've never had a problem on Windows or WSL2... \ud83e\uddcc\ud83d\ude01",
+  "id": "1572017533867233281",
+  "media": [],
+  "qts": [],
+  "replyto_tweetid": "1571681796500201476",
+  "replyto_username": "mrled",
+  "retrieved_date": "2023-01-21T01:58:44.676815",
+  "rt_of": null,
+  "thread_parent_id": "1571681796500201476",
+  "user_displayname": "Rafferty McDonald",
+  "user_pfp": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAwADADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABgcCBQEDBAj/xAAxEAABAwMBBQYFBQEAAAAAAAABAgMEAAURBhITMUFhByEyUXGxFCJCgaEjM2KR0fH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAdEQADAQEAAwEBAAAAAAAAAAAAAQIREgMhURMi/9oADAMBAAIRAxEAPwB/1FxxDSFLWoJSkZJPKpUJ64muNRI8ZpZTvF7S8cwOX9+1Y3i01LXhdLvcRCsHeHqE1gX2IpwIAdyf40ER5K5UJKgf1WiArqPOrqC1tOF1XBPcKj+jK8ILkLS4gKQcg1Kq22OkqcbPDiKsqrNdLSVLHgPaz1Q1pPT7s9Te+kKIbjs5/ccPAeg4noKWltuF0uNuclXqQXZrjxUU8m0kDZSByHSirtFiGXcrVtjLTSXFJHLaJA9qVWqbhPsF9TMZGYz7SUqQrwqKeXQ9aFPXyOfS0MGpbzCi6ytSFII7+RHAijuCsGC2oHJPiPWkOxreHKdSH3lx0A5KVpJGfUUbwe0ixQ4myJTkhfJtps9/3OAKDhjVIPrlPTbYHxG+LKt4hCFA4ypSsAdc54VcafvaLzEcKk7uQyrYdR7EdD/tJqPdLnrrVMDaZ3dthvB5bIOUpA4FR5qJwB/2mVppotalklPgXH+b1Chj3NbOzSkNf0tLrUVpN0gjdAF9o7SAefmKW9ws7c5pyLMYC08FtOJ7x9uINOCuaVboc0D4mO24RwUR3j0PGncde0Gbz0eeZHZRb33CuNNkRgfoUAsD0J767bb2W26ItLkudJfA+hOEA/cZNOlWmbeT8u+SPIOZ981sb07b0eJC3B5LWcfijz5Pouo+AfaYzUVpMO3RQhA4IbH5J5+poys9r+AbW45gvu42schyFdzEZiMjYYaQ2nySMVtpR4+XrDV6sR//2SAgICAgICAgICAgICAgICAg",
+  "username": "thecodinghatter"
+}

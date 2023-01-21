@@ -1,0 +1,44 @@
+{
+  "date": "2022-07-20T20:28:10+00:00",
+  "date_original_format": "Wed Jul 20 20:28:10 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "indices": [
+          22,
+          29
+        ],
+        "text": "EDITOR"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/ThePracticalDe\u2026",
+        "expanded_url": "https://twitter.com/ThePracticalDev/status/1549852109008429056",
+        "indices": [
+          176,
+          199
+        ],
+        "url": "https://t.co/boMLETbGIM"
+      }
+    ],
+    "user_mentions": []
+  },
+  "full_html_link_qts": "If you want to use an $EDITOR proven to be there for the long haul, working consistently for nearly 50 years while other editors have come and gone, there's always ed(1).<br/><br/>;-) <a href=\"https://twitter.com/ThePracticalDev/status/1549852109008429056\">twitter.com/ThePracticalDe\u2026</a>",
+  "full_html_strip_qts": "If you want to use an $EDITOR proven to be there for the long haul, working consistently for nearly 50 years while other editors have come and gone, there's always ed(1).<br/><br/>;-) ",
+  "full_text": "If you want to use an $EDITOR proven to be there for the long haul, working consistently for nearly 50 years while other editors have come and gone, there's always ed(1).\n\n;-) https://t.co/boMLETbGIM",
+  "id": "1549853696103686145",
+  "media": [],
+  "qts": [
+    "1549852109008429056"
+  ],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2023-01-21T01:59:20.517830",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "ed(1) Conference",
+  "user_pfp": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEGUlEQVRoBdXB74vfAxwA8Nf787UbDsPFyvz+sXbYiLbCCGHCbkgySopSkjwhf4CnvogHpmk8IsmPB37kZxRJhKg1tHmAEWI/cPf93H3euj7l7va53d3syX1er0BqsUBqsUBqsUBqsUBqsUBqsUBqsUBqsUBqsUBqsUCabzpYgFRL9EwrkOablbgePXTwMzZiWEMgzTdHYxA9LMcheBw9DYE0n12FFXgIpYZAmm8CCzCKtViGLkoNgTRXYaq0/8JUqdbBGIYwiC5KDYE0k0CBMU0dJCr7LhCoTFUgUWAMQxhEF6WGQNqbApUJfejDKEaQagUqc1egUgv0YxQ9VGp96GEIg+ii1BBI0wkkDsPpWIIjcBB62IHt+A4/mrtAYgBnYTGOQokd2IZv8RsCazGILkoNgTRZINXOxSVYjJ/wg1piACdjNz7BuygRSE2BVLsAF+JwfIdfUeEYLMEOvI0vMYRBdFFqCKTJAonzsBab8RZ2YEStQh8OxgW4DJ/gFfyNQJoQagWuxKX4DG9gF0q1PvTjUqzEszgWy/EQSg2BtKczcDPex5tmdwZuwad4CWl6q3ADXsGHZrYGK9HDMDZgREMgTdaHe/E9nkfH7MawGuvwMH5CIE04EA9gC55VK5BItUCgwgG4DquwFZswrCGQxhWocD4uxgb8bt/ciZ14DmmqVbgMm7AdgTS9AhWW4DbsxJMY0RBI4wpUWI9T8TrC3ARKrMIidDGqFkjcjsBGBNLMAoGbcAweRakhkMYVqHAHTsEYwtwEUq3CgxhRCyTuw1a8iEBlZh2MYR2WoYtSQyCNK1DhbnTwFML/sxupFkjcj2/xMgKVmXUwhiEMootSQyCNK1DhJpyMLobtv0DiTozgaRSozKxA4kYcj0dQagikcYHEKbgV7+ADFKjMLhCoTBVIrMEKbMAutTS9AhUGcBtKPIGehkCarMBdWIBN+BMFKnsXSLXDsBuVqRbjHnyEV1EgkaYKBCpcgcuxFZswrCGQ9nQabsU2vICdCKS9OwBrsAyPoafpKqzGM9hiZufgagR+x0aMaAikyQKJs3EDtuNdbDa9wJm4CCfiMzyPyoRQW4j1WIq38B5S02pcg7fRj6V4GKMaAmlPgcQg1uBI/ILv8RsqDGAAJ2AhduFTfIBKUyCxEENYgd3YjF8whuNwEg7FV3gR1+IKfI2F2ILXEEgCaTqBRD/OxlIcin61Ev/gD2zD5xg2d0txHhbhEIxiGD/jC3yjthLLMYwF2IKPEUgCaW8CaUI/jkCih50YMSGQZhdItYNxJHr4C3+pBdKsAmkmgUAiNXWQSKS5CwQqUxVIpFqBMCFR+U8gzVUg1FIt7Z9AINXSPgmkFgukFgukFgukFgukFgukFgukFgukFgukFgukFgukFvsX+tZLECoo0woAAAAASUVORK5CYIIgICAgICAgICAgICAgICAgIA==",
+  "username": "ed1conf"
+}

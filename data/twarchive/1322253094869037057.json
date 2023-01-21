@@ -1,0 +1,42 @@
+{
+  "date": "2020-10-30T19:04:38+00:00",
+  "date_original_format": "Fri Oct 30 19:04:38 +0000 2020",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          53,
+          68
+        ],
+        "text": "WaybackMachine"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "blog.archive.org/2020/10/30/fac\u2026",
+        "expanded_url": "http://blog.archive.org/2020/10/30/fact-checks-and-context-for-wayback-machine-pages/",
+        "indices": [
+          265,
+          288
+        ],
+        "url": "https://t.co/bUG55zQOsE"
+      }
+    ],
+    "user_mentions": []
+  },
+  "full_html_link_qts": "NEW: fact-checking &amp; context banners now on some <a href=\"https://twitter.com/hashtag/WaybackMachine\">#WaybackMachine</a> pages. <br/><br/>Our goal is to preserve the Web as it was published.<br/>In addition, fact checks &amp; context about the original web page are important data for our users.<br/><br/>Learn more abt our new efforts:<br/><a href=\"http://blog.archive.org/2020/10/30/fact-checks-and-context-for-wayback-machine-pages/\">blog.archive.org/2020/10/30/fac\u2026</a>",
+  "full_html_strip_qts": "NEW: fact-checking &amp; context banners now on some <a href=\"https://twitter.com/hashtag/WaybackMachine\">#WaybackMachine</a> pages. <br/><br/>Our goal is to preserve the Web as it was published.<br/>In addition, fact checks &amp; context about the original web page are important data for our users.<br/><br/>Learn more abt our new efforts:<br/><a href=\"http://blog.archive.org/2020/10/30/fact-checks-and-context-for-wayback-machine-pages/\">blog.archive.org/2020/10/30/fac\u2026</a>",
+  "full_text": "NEW: fact-checking &amp; context banners now on some #WaybackMachine pages. \n\nOur goal is to preserve the Web as it was published.\nIn addition, fact checks &amp; context about the original web page are important data for our users.\n\nLearn more abt our new efforts:\nhttps://t.co/bUG55zQOsE",
+  "id": "1322253094869037057",
+  "media": [],
+  "qts": [],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2023-01-21T01:58:51.730142",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "Internet Archive",
+  "user_pfp": "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",
+  "username": "internetarchive"
+}

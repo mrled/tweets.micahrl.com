@@ -1,0 +1,56 @@
+{
+  "date": "2022-07-20T20:21:52+00:00",
+  "date_original_format": "Wed Jul 20 20:21:52 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "community.vscodetips.com",
+        "expanded_url": "https://community.vscodetips.com/",
+        "indices": [
+          231,
+          254
+        ],
+        "url": "https://t.co/bOoEibGHPw"
+      },
+      {
+        "display_url": "twitter.com/talgya/status/\u2026",
+        "expanded_url": "https://twitter.com/talgya/status/1549848223161806848",
+        "indices": [
+          255,
+          278
+        ],
+        "url": "https://t.co/kCA1fTGRMG"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 910691431567765504,
+        "id_str": "910691431567765504",
+        "indices": [
+          81,
+          92
+        ],
+        "name": "VSCodeTips",
+        "screen_name": "vscodetips"
+      }
+    ]
+  },
+  "full_html_link_qts": "The end of Atom got you feeling like this? \ud83d\ude2d<br/><br/>We humbly suggest checking out the <a href=\"https://twitter.com/vscodetips\">@vscodetips</a> community for all the help you need to get up and running with VS Code. It won't bring back Atom but...it might ease the pain a little \ud83e\udd72<br/><br/><a href=\"https://community.vscodetips.com/\">community.vscodetips.com</a> <a href=\"https://twitter.com/talgya/status/1549848223161806848\">twitter.com/talgya/status/\u2026</a>",
+  "full_html_strip_qts": "The end of Atom got you feeling like this? \ud83d\ude2d<br/><br/>We humbly suggest checking out the <a href=\"https://twitter.com/vscodetips\">@vscodetips</a> community for all the help you need to get up and running with VS Code. It won't bring back Atom but...it might ease the pain a little \ud83e\udd72<br/><br/><a href=\"https://community.vscodetips.com/\">community.vscodetips.com</a> ",
+  "full_text": "The end of Atom got you feeling like this? \ud83d\ude2d\n\nWe humbly suggest checking out the @vscodetips community for all the help you need to get up and running with VS Code. It won't bring back Atom but...it might ease the pain a little \ud83e\udd72\n\nhttps://t.co/bOoEibGHPw https://t.co/kCA1fTGRMG",
+  "id": "1549852109008429056",
+  "media": [],
+  "qts": [
+    "1549848223161806848"
+  ],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2023-01-21T01:59:20.720479",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "DEV Community \ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb",
+  "user_pfp": "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",
+  "username": "ThePracticalDev"
+}

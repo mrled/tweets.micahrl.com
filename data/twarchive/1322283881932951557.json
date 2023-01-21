@@ -1,0 +1,36 @@
+{
+  "date": "2020-10-30T21:06:58+00:00",
+  "date_original_format": "Fri Oct 30 21:06:58 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/internetarchiv\u2026",
+        "expanded_url": "https://twitter.com/internetarchive/status/1322253094869037057",
+        "indices": [
+          209,
+          232
+        ],
+        "url": "https://t.co/Sj6NcKt4Bi"
+      }
+    ],
+    "user_mentions": []
+  },
+  "full_html_link_qts": "This means we're *at most* 30 months away from Internet Archive deleting archived pages for political reasons. Probably much less.<br/><br/>Are there any alternative, uncompromised archiving projects I can donate to? <a href=\"https://twitter.com/internetarchive/status/1322253094869037057\">twitter.com/internetarchiv\u2026</a>",
+  "full_html_strip_qts": "This means we're *at most* 30 months away from Internet Archive deleting archived pages for political reasons. Probably much less.<br/><br/>Are there any alternative, uncompromised archiving projects I can donate to? ",
+  "full_text": "This means we're *at most* 30 months away from Internet Archive deleting archived pages for political reasons. Probably much less.\n\nAre there any alternative, uncompromised archiving projects I can donate to? https://t.co/Sj6NcKt4Bi",
+  "id": "1322283881932951557",
+  "media": [],
+  "qts": [
+    "1322253094869037057"
+  ],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2023-01-21T01:58:51.524335",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "Ben Landau-Taylor",
+  "user_pfp": "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",
+  "username": "benlandautaylor"
+}

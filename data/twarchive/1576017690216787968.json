@@ -1,0 +1,45 @@
+{
+  "date": "2022-10-01T01:14:32+00:00",
+  "date_original_format": "Sat Oct 01 01:14:32 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "archive.org/details/batman\u2026",
+        "expanded_url": "https://archive.org/details/batmanthesilentmotionpicture",
+        "indices": [
+          166,
+          189
+        ],
+        "url": "https://t.co/Z89LnEg3MG"
+      },
+      {
+        "display_url": "twitter.com/thesilentbatma\u2026",
+        "expanded_url": "https://twitter.com/thesilentbatman/status/1575999381727170560",
+        "indices": [
+          238,
+          261
+        ],
+        "url": "https://t.co/4w4gc3BMcI"
+      }
+    ],
+    "user_mentions": []
+  },
+  "full_html_link_qts": "Thank you all for being so patient, I have two options for how you can view \"Batman: The Silent Motion Picture\"<br/>The full film can (currently) be viewed at this link: <a href=\"https://archive.org/details/batmanthesilentmotionpicture\">archive.org/details/batman\u2026</a><br/>Or through segmented clips in the thread below. <a href=\"https://twitter.com/thesilentbatman/status/1575999381727170560\">twitter.com/thesilentbatma\u2026</a>",
+  "full_html_strip_qts": "Thank you all for being so patient, I have two options for how you can view \"Batman: The Silent Motion Picture\"<br/>The full film can (currently) be viewed at this link: <a href=\"https://archive.org/details/batmanthesilentmotionpicture\">archive.org/details/batman\u2026</a><br/>Or through segmented clips in the thread below. ",
+  "full_text": "Thank you all for being so patient, I have two options for how you can view \"Batman: The Silent Motion Picture\"\nThe full film can (currently) be viewed at this link: https://t.co/Z89LnEg3MG\nOr through segmented clips in the thread below. https://t.co/4w4gc3BMcI",
+  "id": "1576017690216787968",
+  "media": [],
+  "qts": [
+    "1575999381727170560"
+  ],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2023-01-21T01:57:55.989819",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "Ben Crew",
+  "user_pfp": "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",
+  "username": "BenjaminCrew1"
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2022-07-20T20:06:25+00:00",
+  "date_original_format": "Wed Jul 20 20:06:25 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "pic.twitter.com/dn4fYs0aME",
+        "expanded_url": "https://twitter.com/talgya/status/1549848223161806848/photo/1",
+        "indices": [
+          30,
+          53
+        ],
+        "url": "https://t.co/dn4fYs0aME"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 2735246778,
+        "id_str": "2735246778",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "DEV Community \ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb",
+        "screen_name": "ThePracticalDev"
+      },
+      {
+        "id": 161419043,
+        "id_str": "161419043",
+        "indices": [
+          17,
+          29
+        ],
+        "name": "Ben Halpern",
+        "screen_name": "bendhalpern"
+      }
+    ]
+  },
+  "full_html_link_qts": "<a href=\"https://twitter.com/ThePracticalDev\">@ThePracticalDev</a> <a href=\"https://twitter.com/bendhalpern\">@bendhalpern</a> <a href=\"https://twitter.com/talgya/status/1549848223161806848/photo/1\">pic.twitter.com/dn4fYs0aME</a>",
+  "full_html_strip_qts": "<a href=\"https://twitter.com/ThePracticalDev\">@ThePracticalDev</a> <a href=\"https://twitter.com/bendhalpern\">@bendhalpern</a> ",
+  "full_text": "@ThePracticalDev @bendhalpern https://t.co/dn4fYs0aME",
+  "id": "1549848223161806848",
+  "media": [],
+  "qts": [
+    "1549848223161806848"
+  ],
+  "replyto_tweetid": "1549601244775591936",
+  "replyto_username": "ThePracticalDev",
+  "retrieved_date": "2023-01-21T01:59:20.906613",
+  "rt_of": null,
+  "thread_parent_id": "1549601244775591936",
+  "user_displayname": "toby \u201cnuclear power\u201d jaguar.eth",
+  "user_pfp": "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",
+  "username": "talgya"
+}

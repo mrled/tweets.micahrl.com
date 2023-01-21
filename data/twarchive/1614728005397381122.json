@@ -1,0 +1,36 @@
+{
+  "date": "2023-01-15T20:55:31+00:00",
+  "date_original_format": "Sun Jan 15 20:55:31 +0000 2023",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/mileszim/statu\u2026",
+        "expanded_url": "https://twitter.com/mileszim/status/1613965684937224192",
+        "indices": [
+          278,
+          301
+        ],
+        "url": "https://t.co/7MpOcWnj4X"
+      }
+    ],
+    "user_mentions": []
+  },
+  "full_html_link_qts": "Thinking about going with an acquaintance to a cramped house party. As the night goes on you notice people in the crowd grinning at you with mouths that hold too many teeth, hands grip your shoulders possessively, squirming with far too many fingers. You're the guest of honor. <a href=\"https://twitter.com/mileszim/status/1613965684937224192\">twitter.com/mileszim/statu\u2026</a>",
+  "full_html_strip_qts": "Thinking about going with an acquaintance to a cramped house party. As the night goes on you notice people in the crowd grinning at you with mouths that hold too many teeth, hands grip your shoulders possessively, squirming with far too many fingers. You're the guest of honor. ",
+  "full_text": "Thinking about going with an acquaintance to a cramped house party. As the night goes on you notice people in the crowd grinning at you with mouths that hold too many teeth, hands grip your shoulders possessively, squirming with far too many fingers. You're the guest of honor. https://t.co/7MpOcWnj4X",
+  "id": "1614728005397381122",
+  "media": [],
+  "qts": [
+    "1613965684937224192"
+  ],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2023-01-21T01:57:21.202303",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "Trevor \"FLESHARTIST\" Henderson",
+  "user_pfp": "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",
+  "username": "slimyswampghost"
+}
