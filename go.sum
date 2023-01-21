@@ -6,9 +6,13 @@ github.com/mrled/twarchive/aviary v0.0.0-20230121001516-0d6fc07fb659 h1:awvKd/JR
 github.com/mrled/twarchive/aviary v0.0.0-20230121001516-0d6fc07fb659/go.mod h1:u5USz/8IhHJ+j0dA8S67OXSEIQPIvLM8tLgxA53Wovc=
 github.com/mrled/twarchive/aviary v0.0.0-20230121014459-bd476a16ee33 h1:61aP1Toovre5Xg9bYuEaJjiuGJZhaiY44Maed1u1if8=
 github.com/mrled/twarchive/aviary v0.0.0-20230121014459-bd476a16ee33/go.mod h1:u5USz/8IhHJ+j0dA8S67OXSEIQPIvLM8tLgxA53Wovc=
+github.com/mrled/twarchive/aviary v0.0.0-20230121015625-5ff1a160fb9b h1:UiO+wvJ8WFiOg1iT2aMinhmoTX93VvEl8tkSyteyA10=
+github.com/mrled/twarchive/aviary v0.0.0-20230121015625-5ff1a160fb9b/go.mod h1:u5USz/8IhHJ+j0dA8S67OXSEIQPIvLM8tLgxA53Wovc=
 github.com/mrled/twarchive/ornithography v0.0.0-20230119053410-fb51e1c1e5e3 h1:P9XtrVM+y5xWm7aSvkcdeUDxiFYKSGozGpzsMu0P2vA=
 github.com/mrled/twarchive/ornithography v0.0.0-20230119053410-fb51e1c1e5e3/go.mod h1:8i/Kh6omO0izBtHfN09Kpf8JtKxK+k48y81Ffqk2Cq0=
 github.com/mrled/twarchive/ornithography v0.0.0-20230121001516-0d6fc07fb659 h1:cFmk2jZkEf+nqrd5J4n99WvDVemVXhmVZmpYHIPiQT0=
 github.com/mrled/twarchive/ornithography v0.0.0-20230121001516-0d6fc07fb659/go.mod h1:8i/Kh6omO0izBtHfN09Kpf8JtKxK+k48y81Ffqk2Cq0=
 github.com/mrled/twarchive/ornithography v0.0.0-20230121014459-bd476a16ee33 h1:H27D/NfbLJlSOyvy6l77Zd15QNWAuRcrV6Qp11fIqqM=
 github.com/mrled/twarchive/ornithography v0.0.0-20230121014459-bd476a16ee33/go.mod h1:8i/Kh6omO0izBtHfN09Kpf8JtKxK+k48y81Ffqk2Cq0=
+github.com/mrled/twarchive/ornithography v0.0.0-20230121015625-5ff1a160fb9b h1:eGRsbz+L1BxdOQuJY9DQqftpKJ6JUfQkkPSu5+dWvV8=
+github.com/mrled/twarchive/ornithography v0.0.0-20230121015625-5ff1a160fb9b/go.mod h1:8i/Kh6omO0izBtHfN09Kpf8JtKxK+k48y81Ffqk2Cq0=
