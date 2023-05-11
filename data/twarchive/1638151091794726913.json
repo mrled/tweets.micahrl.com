@@ -1,0 +1,36 @@
+{
+  "date": "2023-03-21T12:10:30+00:00",
+  "date_original_format": "Tue Mar 21 12:10:30 +0000 2023",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/o_guest/status\u2026",
+        "expanded_url": "https://twitter.com/o_guest/status/1638076109676789760",
+        "indices": [
+          198,
+          221
+        ],
+        "url": "https://t.co/rgKg3qCkYk"
+      }
+    ],
+    "user_mentions": []
+  },
+  "full_html_link_qts": "What do you call this predicament where people project an illusion of control by employing an overly reductionist explanation?  I see it all the time, but I don't have a unique term to call it out. <a href=\"https://twitter.com/o_guest/status/1638076109676789760\">twitter.com/o_guest/status\u2026</a>",
+  "full_html_strip_qts": "What do you call this predicament where people project an illusion of control by employing an overly reductionist explanation?  I see it all the time, but I don't have a unique term to call it out. ",
+  "full_text": "What do you call this predicament where people project an illusion of control by employing an overly reductionist explanation?  I see it all the time, but I don't have a unique term to call it out. https://t.co/rgKg3qCkYk",
+  "id": "1638151091794726913",
+  "media": [],
+  "qts": [
+    "1638076109676789760"
+  ],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2023-05-11T15:14:36.072853",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "Carlos E. Perez",
+  "user_pfp": "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",
+  "username": "IntuitMachine"
+}

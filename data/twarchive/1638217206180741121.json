@@ -1,0 +1,45 @@
+{
+  "date": "2023-03-21T16:33:13+00:00",
+  "date_original_format": "Tue Mar 21 16:33:13 +0000 2023",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 441515978,
+        "id_str": "441515978",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "Simon Aarons",
+        "screen_name": "ItsSimonTime"
+      },
+      {
+        "id": 2242426383,
+        "id_str": "2242426383",
+        "indices": [
+          14,
+          27
+        ],
+        "name": "David Buchanan",
+        "screen_name": "David3141593"
+      }
+    ]
+  },
+  "full_html_link_qts": "<a href=\"https://twitter.com/ItsSimonTime\">@ItsSimonTime</a> <a href=\"https://twitter.com/David3141593\">@David3141593</a> I've got a fun one for you all to look at.<br/><br/>I opened a 198 byte PNG with Microsoft's Snipping Tool, chose \"Save As\" to overwrite a different PNG file (no editing), and saves a 4,762 byte file with all that extra after the PNG IEND chunk.<br/><br/>Sounds similar :D",
+  "full_html_strip_qts": "<a href=\"https://twitter.com/ItsSimonTime\">@ItsSimonTime</a> <a href=\"https://twitter.com/David3141593\">@David3141593</a> I've got a fun one for you all to look at.<br/><br/>I opened a 198 byte PNG with Microsoft's Snipping Tool, chose \"Save As\" to overwrite a different PNG file (no editing), and saves a 4,762 byte file with all that extra after the PNG IEND chunk.<br/><br/>Sounds similar :D",
+  "full_text": "@ItsSimonTime @David3141593 I've got a fun one for you all to look at.\n\nI opened a 198 byte PNG with Microsoft's Snipping Tool, chose \"Save As\" to overwrite a different PNG file (no editing), and saves a 4,762 byte file with all that extra after the PNG IEND chunk.\n\nSounds similar :D",
+  "id": "1638217206180741121",
+  "media": [],
+  "qts": [],
+  "replyto_tweetid": "1636857478263750656",
+  "replyto_username": "ItsSimonTime",
+  "retrieved_date": "2023-05-11T15:14:37.753732",
+  "rt_of": null,
+  "thread_parent_id": "1636857478263750656",
+  "user_displayname": "Chris Blume",
+  "user_pfp": "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",
+  "username": "ProgramMax"
+}

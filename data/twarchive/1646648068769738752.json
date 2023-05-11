@@ -1,0 +1,55 @@
+{
+  "date": "2023-04-13T22:54:27+00:00",
+  "date_original_format": "Thu Apr 13 22:54:27 +0000 2023",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 917270294,
+        "id_str": "917270294",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Sheikh Abdur Raheem Ali",
+        "screen_name": "Sheikheddy"
+      },
+      {
+        "id": 37547071,
+        "id_str": "37547071",
+        "indices": [
+          12,
+          19
+        ],
+        "name": "Zvi Mowshowitz",
+        "screen_name": "TheZvi"
+      },
+      {
+        "id": 4398626122,
+        "id_str": "4398626122",
+        "indices": [
+          20,
+          27
+        ],
+        "name": "OpenAI",
+        "screen_name": "OpenAI"
+      }
+    ]
+  },
+  "full_html_link_qts": "<a href=\"https://twitter.com/Sheikheddy\">@Sheikheddy</a> <a href=\"https://twitter.com/TheZvi\">@TheZvi</a> <a href=\"https://twitter.com/OpenAI\">@OpenAI</a> Interesting - how is it preventing the new datacenters?",
+  "full_html_strip_qts": "<a href=\"https://twitter.com/Sheikheddy\">@Sheikheddy</a> <a href=\"https://twitter.com/TheZvi\">@TheZvi</a> <a href=\"https://twitter.com/OpenAI\">@OpenAI</a> Interesting - how is it preventing the new datacenters?",
+  "full_text": "@Sheikheddy @TheZvi @OpenAI Interesting - how is it preventing the new datacenters?",
+  "id": "1646648068769738752",
+  "media": [],
+  "qts": [],
+  "replyto_tweetid": "1646637577305194497",
+  "replyto_username": "Sheikheddy",
+  "retrieved_date": "2023-05-11T15:13:56.454742",
+  "rt_of": null,
+  "thread_parent_id": "1646637577305194497",
+  "user_displayname": "Michael Nielsen",
+  "user_pfp": "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",
+  "username": "michael_nielsen"
+}

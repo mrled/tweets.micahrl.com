@@ -1,0 +1,36 @@
+{
+  "date": "2023-04-10T16:20:04+00:00",
+  "date_original_format": "Mon Apr 10 16:20:04 +0000 2023",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/Tinkzorg/statu\u2026",
+        "expanded_url": "https://twitter.com/Tinkzorg/status/1645439042849320963",
+        "indices": [
+          278,
+          301
+        ],
+        "url": "https://t.co/OSFgtTv2Bo"
+      }
+    ],
+    "user_mentions": []
+  },
+  "full_html_link_qts": "In Dublin, a large percent of the Southern Fried Chicken market is cornered by the fish &amp; chip shop chain Borza, which is owned by direct descendants of the Borgia family who moved to Ireland in the early 20th century. They still speak Italian to each other in the kitchen. <a href=\"https://twitter.com/Tinkzorg/status/1645439042849320963\">twitter.com/Tinkzorg/statu\u2026</a>",
+  "full_html_strip_qts": "In Dublin, a large percent of the Southern Fried Chicken market is cornered by the fish &amp; chip shop chain Borza, which is owned by direct descendants of the Borgia family who moved to Ireland in the early 20th century. They still speak Italian to each other in the kitchen. ",
+  "full_text": "In Dublin, a large percent of the Southern Fried Chicken market is cornered by the fish &amp; chip shop chain Borza, which is owned by direct descendants of the Borgia family who moved to Ireland in the early 20th century. They still speak Italian to each other in the kitchen. https://t.co/OSFgtTv2Bo",
+  "id": "1645461656808620035",
+  "media": [],
+  "qts": [
+    "1645439042849320963"
+  ],
+  "replyto_tweetid": null,
+  "replyto_username": null,
+  "retrieved_date": "2023-05-11T15:14:02.964608",
+  "rt_of": null,
+  "thread_parent_id": null,
+  "user_displayname": "cascadian realism fan \ud83c\udf32",
+  "user_pfp": "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",
+  "username": "realism_fan"
+}

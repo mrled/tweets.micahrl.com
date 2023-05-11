@@ -1,0 +1,55 @@
+{
+  "date": "2023-04-13T23:17:39+00:00",
+  "date_original_format": "Thu Apr 13 23:17:39 +0000 2023",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15626406,
+        "id_str": "15626406",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Michael Nielsen",
+        "screen_name": "michael_nielsen"
+      },
+      {
+        "id": 37547071,
+        "id_str": "37547071",
+        "indices": [
+          17,
+          24
+        ],
+        "name": "Zvi Mowshowitz",
+        "screen_name": "TheZvi"
+      },
+      {
+        "id": 4398626122,
+        "id_str": "4398626122",
+        "indices": [
+          25,
+          32
+        ],
+        "name": "OpenAI",
+        "screen_name": "OpenAI"
+      }
+    ]
+  },
+  "full_html_link_qts": "<a href=\"https://twitter.com/michael_nielsen\">@michael_nielsen</a> <a href=\"https://twitter.com/TheZvi\">@TheZvi</a> <a href=\"https://twitter.com/OpenAI\">@OpenAI</a> We are massively blocked on GPUs. Like there\u2019s not even a shred of doubt; we are blocked by a factor of three probably. You can't get planning permission fast enough, 14 to 16 months is optimistic, everyone is acquiring leases/land across the planet and pre-provisioning shells",
+  "full_html_strip_qts": "<a href=\"https://twitter.com/michael_nielsen\">@michael_nielsen</a> <a href=\"https://twitter.com/TheZvi\">@TheZvi</a> <a href=\"https://twitter.com/OpenAI\">@OpenAI</a> We are massively blocked on GPUs. Like there\u2019s not even a shred of doubt; we are blocked by a factor of three probably. You can't get planning permission fast enough, 14 to 16 months is optimistic, everyone is acquiring leases/land across the planet and pre-provisioning shells",
+  "full_text": "@michael_nielsen @TheZvi @OpenAI We are massively blocked on GPUs. Like there\u2019s not even a shred of doubt; we are blocked by a factor of three probably. You can't get planning permission fast enough, 14 to 16 months is optimistic, everyone is acquiring leases/land across the planet and pre-provisioning shells",
+  "id": "1646653907022561282",
+  "media": [],
+  "qts": [],
+  "replyto_tweetid": "1646652051265396737",
+  "replyto_username": "Sheikheddy",
+  "retrieved_date": "2023-05-11T15:13:55.985049",
+  "rt_of": null,
+  "thread_parent_id": "1646652051265396737",
+  "user_displayname": "Sheikh Abdur Raheem Ali",
+  "user_pfp": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gKgSUNDX1BST0ZJTEUAAQEAAAKQbGNtcwQwAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwQVBQTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLWxjbXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtkZXNjAAABCAAAADhjcHJ0AAABQAAAAE53dHB0AAABkAAAABRjaGFkAAABpAAAACxyWFlaAAAB0AAAABRiWFlaAAAB5AAAABRnWFlaAAAB+AAAABRyVFJDAAACDAAAACBnVFJDAAACLAAAACBiVFJDAAACTAAAACBjaHJtAAACbAAAACRtbHVjAAAAAAAAAAEAAAAMZW5VUwAAABwAAAAcAHMAUgBHAEIAIABiAHUAaQBsAHQALQBpAG4AAG1sdWMAAAAAAAAAAQAAAAxlblVTAAAAMgAAABwATgBvACAAYwBvAHAAeQByAGkAZwBoAHQALAAgAHUAcwBlACAAZgByAGUAZQBsAHkAAAAAWFlaIAAAAAAAAPbWAAEAAAAA0y1zZjMyAAAAAAABDEoAAAXj///zKgAAB5sAAP2H///7ov///aMAAAPYAADAlFhZWiAAAAAAAABvlAAAOO4AAAOQWFlaIAAAAAAAACSdAAAPgwAAtr5YWVogAAAAAAAAYqUAALeQAAAY3nBhcmEAAAAAAAMAAAACZmYAAPKnAAANWQAAE9AAAApbcGFyYQAAAAAAAwAAAAJmZgAA8qcAAA1ZAAAT0AAACltwYXJhAAAAAAADAAAAAmZmAADypwAADVkAABPQAAAKW2Nocm0AAAAAAAMAAAAAo9cAAFR7AABMzQAAmZoAACZmAAAPXP/bAEMABQMEBAQDBQQEBAUFBQYHDAgHBwcHDwsLCQwRDxISEQ8RERMWHBcTFBoVEREYIRgaHR0fHx8TFyIkIh4kHB4fHv/bAEMBBQUFBwYHDggIDh4UERQeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHv/CABEIADAAMAMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAFBwQGAQIDAP/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf/aAAwDAQACEAMQAAABvMMhVuJ0eB9bydQN33LMCOCNg8pU+aLJPexthJRmUCrbGv2wxkd1ZWrwSrNGv//EACIQAAEEAgEEAwAAAAAAAAAAAAQBAgMFABEQBhIUJCIxQf/aAAgBAQABBQJUx79YTexDLV2cRreNby5b2iwVcT0rROy44TLRN56rSK10bC0+sbls+NGyTL5A5jBpAzRSUw02IYcw15EgpCMefOyV7JHMdWz+QFfwOaJv5fgyexaaQ7peXdV//8QAHREAAgIDAAMAAAAAAAAAAAAAAAEDEQISIRAxMv/aAAgBAwEBPwF5JIeOa6xkvyza47rxK+0KR66Hp0f/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIRAxIhMf/aAAgBAgEBPwFoShXBGTzgu+lUYIqrJQjtuN7RTP/EACYQAAIBAwIGAgMAAAAAAAAAAAECAAMRIRJBBBAgIjFRMkITUmH/2gAIAQEABj8CmcaYqouv2bwD41P16KgTdTA9SrcWvOG/BU7NWc9Cj3ed7s2MgCU0pJUHdvv0Alxg5jVaC60byv8AfcXieLTyNKhfrLUqoJ9HzyapqVjsIXdrmDUTY4MVUJItMG1pSrHyy5i1F+INjzXF8jEbRYLtaC/0Yif/xAAjEAEAAgICAgAHAAAAAAAAAAABABEhMUFRYZEQcYGhscHx/9oACAEBAAE/IbtEM6ja3iFUMJ0122ly4jbUzwLFDFV1EWDEc6ErIxlPUuX8A6OjPnEo41yQPUQR1p4OftHdoMUFRcK4ITsTVdHUzFUVvyc7hlN1i9IblKZwbtl1I9HylDTAH5hWbvXcJXpYR1G1S/XzKdue5t1MqeJ3IFLns7SsHEyXioA3/V/c/9oADAMBAAIAAwAAABDhEdRo7JDr/8QAGxEBAQACAwEAAAAAAAAAAAAAAQARUSExYUH/2gAIAQMBAT8QzFhfjKCsHVqXGt+2cy+EXUwZ5//EABwRAQACAwADAAAAAAAAAAAAAAEAETFBURBhwf/aAAgBAgEBPxBlDsHTLviFrlLUMnW4JUwZ3Z7QEKtz9n//xAAjEAEAAgICAQMFAAAAAAAAAAABABEhMUFhUXGBoRCRscHR/9oACAEBAAE/EHwsXy1UU5sqwYOfTMYHqspQFFAZIaQzTbA8LV4plb+moE+QNXH4gBMYsHfFxMqZJWXy2HcxstCAvgNhgKD1hDEIy4qrwoP7TLbRmCJQZJebdS1046G0062s8MpRm2aISyr7pBYJ94yfhT7qZtuvxLlKBGUvKtIUvdTOajKjpbi0hdr9lX1xo29EcXfQCrDQ4mCwtgnHs/sugLt0NJxx8xzKLUPgnvKf7Smq4+RGDtTVg5+Kwm7zD0S3zKs7iJ3QgtzyTLaKCGDaYXh7I6es9vLUj//ZICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==",
+  "username": "Sheikheddy"
+}
