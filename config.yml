@@ -34,4 +34,4 @@ Params:
 
 disableKinds:
   - taxonomy
-  - taxonomyTerm
+  - term
