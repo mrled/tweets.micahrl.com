@@ -8,6 +8,10 @@ github.com/mrled/twarchive/aviary v0.0.0-20230121014459-bd476a16ee33 h1:61aP1Too
 github.com/mrled/twarchive/aviary v0.0.0-20230121014459-bd476a16ee33/go.mod h1:u5USz/8IhHJ+j0dA8S67OXSEIQPIvLM8tLgxA53Wovc=
 github.com/mrled/twarchive/aviary v0.0.0-20230121015625-5ff1a160fb9b h1:UiO+wvJ8WFiOg1iT2aMinhmoTX93VvEl8tkSyteyA10=
 github.com/mrled/twarchive/aviary v0.0.0-20230121015625-5ff1a160fb9b/go.mod h1:u5USz/8IhHJ+j0dA8S67OXSEIQPIvLM8tLgxA53Wovc=
+github.com/mrled/twarchive/aviary v0.0.0-20230127200210-f1886123e78b h1:+5/Vd1GC8lnElp1JF0KYHiUNUP7BKgHGV8a8mJJSQcU=
+github.com/mrled/twarchive/aviary v0.0.0-20230127200210-f1886123e78b/go.mod h1:u5USz/8IhHJ+j0dA8S67OXSEIQPIvLM8tLgxA53Wovc=
+github.com/mrled/twarchive/aviary v0.0.0-20240728181333-5c5184a2cccc h1:ueKCgY+pG4kXlhL3H4J/+d2nYmwlFWbUu9EaNeVJeZs=
+github.com/mrled/twarchive/aviary v0.0.0-20240728181333-5c5184a2cccc/go.mod h1:u5USz/8IhHJ+j0dA8S67OXSEIQPIvLM8tLgxA53Wovc=
 github.com/mrled/twarchive/ornithography v0.0.0-20230119053410-fb51e1c1e5e3 h1:P9XtrVM+y5xWm7aSvkcdeUDxiFYKSGozGpzsMu0P2vA=
 github.com/mrled/twarchive/ornithography v0.0.0-20230119053410-fb51e1c1e5e3/go.mod h1:8i/Kh6omO0izBtHfN09Kpf8JtKxK+k48y81Ffqk2Cq0=
 github.com/mrled/twarchive/ornithography v0.0.0-20230121001516-0d6fc07fb659 h1:cFmk2jZkEf+nqrd5J4n99WvDVemVXhmVZmpYHIPiQT0=
@@ -16,3 +20,7 @@ github.com/mrled/twarchive/ornithography v0.0.0-20230121014459-bd476a16ee33 h1:H
 github.com/mrled/twarchive/ornithography v0.0.0-20230121014459-bd476a16ee33/go.mod h1:8i/Kh6omO0izBtHfN09Kpf8JtKxK+k48y81Ffqk2Cq0=
 github.com/mrled/twarchive/ornithography v0.0.0-20230121015625-5ff1a160fb9b h1:eGRsbz+L1BxdOQuJY9DQqftpKJ6JUfQkkPSu5+dWvV8=
 github.com/mrled/twarchive/ornithography v0.0.0-20230121015625-5ff1a160fb9b/go.mod h1:8i/Kh6omO0izBtHfN09Kpf8JtKxK+k48y81Ffqk2Cq0=
+github.com/mrled/twarchive/ornithography v0.0.0-20230127200210-f1886123e78b h1:UX9CrXqaET4Ej6tiNwNwSPhGljdcEk32JcXnp/LUkJk=
+github.com/mrled/twarchive/ornithography v0.0.0-20230127200210-f1886123e78b/go.mod h1:8i/Kh6omO0izBtHfN09Kpf8JtKxK+k48y81Ffqk2Cq0=
+github.com/mrled/twarchive/ornithography v0.0.0-20240728181333-5c5184a2cccc h1:lKkLAy1u5enlL62X6gpyEuCW0Iq++g+qtJvubaChU1o=
+github.com/mrled/twarchive/ornithography v0.0.0-20240728181333-5c5184a2cccc/go.mod h1:8i/Kh6omO0izBtHfN09Kpf8JtKxK+k48y81Ffqk2Cq0=
