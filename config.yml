@@ -12,14 +12,13 @@ mediaTypes:
   text/netlify:
     delimiter: ""
     suffixes: [""]
-  text/html+tweet:
-    suffixes: ["tweet.html"]
 
 outputFormats:
-  HtmlTweet:
-    mediatype: text/html+tweet
-    suffix: tweet.html
+  tweet:
+    basename: index.tweet
+    # Process with Go's text/template, not html/template
     isPlainText: true
+    mediaType: text/html
     notAlternative: false
 
 outputs:
@@ -27,7 +26,7 @@ outputs:
     - HTML
   section:
     - HTML
-    - HtmlTweet
+    - tweet
 
 Params:
   dateform: "2006-01-02 03:04:05 -07:00"

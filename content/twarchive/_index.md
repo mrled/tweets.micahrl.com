@@ -11,7 +11,7 @@ outputs:
 cascade:
     outputs:
         - HTML
-        - HtmlTweet
+        - tweet
 ---
 
 ## All archived tweets
